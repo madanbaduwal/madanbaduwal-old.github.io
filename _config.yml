@@ -67,7 +67,7 @@ plugins:
 author:
   name   : "Madan Baduwal"
   avatar : "/images/my-image.jpg"
-  bio    : "Mathematic Enthusiastic and Machine Learning Engineer"
+  bio    : "Mathematic Enthusiastic and AI explorer"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
