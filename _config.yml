@@ -1,0 +1,159 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Madan Baduwal
+email: madanbaduwal100@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  I am a Mathematic Enthusiastic and AI explorer.
+  I explore artificial intelligence concepts through image,video and animation.
+url: "https://madanbaduwal.com.np"
+twitter_username: MadanBaduwal1
+github_username: MadanBaduwal
+stackoverflow_username: madan-baduwal
+linkiden_username: MadanBaduwal
+minimal_mistakes_skin: default
+search: true
+
+twitter:
+  username: "MadanBaduwal1"
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+
+
+# Outputting
+permalink: /:year/:month/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: Asia/Kathmandu
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Madan Baduwal"
+  avatar : "/images/my-image.jpg"
+  bio    : "Mathematic Enthusiastic and Machine Learning Engineer"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MadanBaduwal1"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/MadanBaduwal"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin-in"
+      url: "www.linkedin.com/in/madan-baduwal-a688bb186"
+    - label: "stackoverflow"
+      icon: "fa fa-stack-overflow"
+      url: "https://stackoverflow.com/users/13783264"
+    # - label: "Subscribe"
+    #   icon: "fas fa-fw fa-envelope"
+    #   url: "https://feedburner.google.com/fb/a/mailverify?uri=MadanBaduwal&amp;loc=en_US"
+#    - label: "Email"
+#      icon: "fab fa-envelope"
+#      url: "mailto:meamitkc@gmail.com"
+#    - label: "Feed"
+#      icon: "fab fa-fw fa-globe"
+#      url: "/feed.xml"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MadanBaduwal1"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/MadanBaduwal"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: "images/"
+    values:
+      image: true
+
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "pathname"
+repository: "MadanBaduwal/MadanBaduwal.github.io"
+
+google-site-verification: "7PTmUxxTjmF3fgdhOmPbB5uNjkzCLD5vhItBRnJJSZY"  # get from google search console
+
+social:
+  type:  Person
+  name:  Madan Baduwal
+  links:
+    - "https://twitter.com/MadanBaduwal1"
+    - "https://github.com/MadanBaduwal"
+    - "www.linkedin.com/in/madan-baduwal-a688bb186"
+    - "https://stackoverflow.com/users/13783264"
+
+google:
+  search_engine_id: 7e12f10ae75868958
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-25459974-1"
+    anonymize_ip: false

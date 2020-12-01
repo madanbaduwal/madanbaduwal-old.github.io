@@ -1,0 +1,9 @@
+main:
+  - title: "Posts"
+    url: /posts/
+  - title: "Post collections"
+    url: /postcollections/
+  - title: "About"
+    url: /about/
+
+# Create link
