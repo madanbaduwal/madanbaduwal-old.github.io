@@ -25,7 +25,7 @@ import warnings
 warnings.filterwarnings('ignore')
 ```
 
-CNN architectures covid-19 chest image classification
+CNN architectures covid-19 Lung image classification
 =====================================================
 
 In this assignment, we will learn how we can use CNN architectures for
