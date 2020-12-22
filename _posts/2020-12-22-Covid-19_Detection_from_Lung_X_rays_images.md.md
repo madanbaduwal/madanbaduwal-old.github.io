@@ -11,6 +11,7 @@ excerpt: Covid-19_Detection_from_Lung_X_rays_images.
 ---
 In this assignment we will learn how to create ML model for Covid-19_Detection_Lung_X_rays_images in google drive. 
 For complete project follow this [githublink](https://github.com/MadanBaduwal/Covid-19-Detection-from-Lung-X-rays).
+
 ``` {.sourceCode .}
 #@title Mount drive
 from google.colab import drive
@@ -65,6 +66,7 @@ Dataset is generated using data augmentation.
 
 Data Augumentation
 ==================
+
 
 ``` {.sourceCode .}
 from keras.preprocessing.image import ImageDataGenerator
