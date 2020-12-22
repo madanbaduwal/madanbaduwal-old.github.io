@@ -1,5 +1,5 @@
 ---
-title: "Covid-19_Detection_from_Lung_X_rays_images"
+title: "Covid-19_Detection"
 date: 2020-12-22T00:00-00:00
 last_modified_at: 2020-12-22T00:00:00-00:00
 permalink: /AI/
