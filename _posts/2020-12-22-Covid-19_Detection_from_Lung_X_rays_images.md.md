@@ -68,7 +68,7 @@ Data Augumentation
 ==================
 
 
-``` {.sourceCode .}
+``` 
 from keras.preprocessing.image import ImageDataGenerator
 from keras.preprocessing.image import img_to_array
 from imutils import paths
@@ -120,7 +120,7 @@ def data_augumentation(input_path, output_path):
 
 Covid postive and negative data augumentation
 
-``` {.sourceCode .}
+``` 
 Paths = [("/drive/My Drive/covid/raw/covid",
         "/drive/My Drive/covid/processed/covid"),
        ("/drive/My Drive/covid/raw/normal",
@@ -134,7 +134,7 @@ for i in Paths:
 Here after augumentation we had saved augumented dataset into processed
 folder. Load augumented(processed) dataset.
 
-``` {.sourceCode .}
+``` 
 def  get_data(input_path):
     '''
     Get data from given path.
@@ -171,7 +171,7 @@ clean the data and labels.
 -   Binarize the label using `LabelBinarizer()`
 -   Convert binarizerd labels into categorical vectors.
 
-``` {.sourceCode .}
+``` 
 from tensorflow.keras.utils import to_categorical
 from sklearn.preprocessing import LabelBinarizer
 
@@ -202,7 +202,7 @@ Train-Test split
 We use sklearn `train_test_split` function to split data into train and
 test.
 
-``` {.sourceCode .}
+``` 
 from sklearn.model_selection import train_test_split
 
 
@@ -213,7 +213,7 @@ def data_split(data,labels):
     return (trainX, testX, trainY, testY)
 ```
 
-``` {.sourceCode .}
+``` 
 input_path = "/drive/My Drive/covid/processed"
 data,labels = get_data(input_path)
 data,labels,lb = data_preprocessing(data,labels)
@@ -225,7 +225,7 @@ Create models
 
 ### VGG16
 
-``` {.sourceCode .}
+``` 
 from tensorflow.keras.applications import VGG16
 from tensorflow.keras.layers import AveragePooling2D
 from tensorflow.keras.layers import Dropout
@@ -284,7 +284,7 @@ class Model_VGG16:
 Model evaluation
 ----------------
 
-``` {.sourceCode .}
+``` 
 from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
 import matplotlib.pyplot as plt
@@ -322,7 +322,7 @@ def model_evaluation(History, predIdxs, lb,testX,testY):
 ML pipeline
 -----------
 
-``` {.sourceCode .}
+``` 
 INIT_LR = 1e-3
 EPOCHS = 100
 BS = 128
@@ -332,7 +332,7 @@ predIdxs = model_vgg16.predict(testX)
 #print(History.history.keys())
 ```
 
-``` {.sourceCode .}
+``` 
 model_evaluation(History, predIdxs, lb,testX,testY)
 ```
 
