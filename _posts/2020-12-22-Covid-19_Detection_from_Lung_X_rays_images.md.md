@@ -29,8 +29,8 @@ CNN architectures covid-19 chest image classification
 =====================================================
 
 In this assignment, we will learn how we can use CNN architectures for
-covid-19 chest image classification. Our task here will be a binary
-covid-19 chest image classification of kaggle datasets.
+covid-19 Lung image classification. Our task here will be a binary
+covid-19 Lung image classification of kaggle datasets.
 
 We will use the `Kaggle` dataset for this programming, available on
 kaggle.
@@ -38,7 +38,7 @@ kaggle.
 Learning objective
 ------------------
 
--   Use CNN architectures for real covid-19 chest image.
+-   Use CNN architectures for real covid-19 Lung image.
 
 Dataset Description
 -------------------
