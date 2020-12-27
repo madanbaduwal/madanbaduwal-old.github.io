@@ -2,10 +2,9 @@
 title: "Image classification in keras"
 date: 2020-12-27T00:00-00:00
 last_modified_at: 2020-12-27T00:00:00-00:00
-permalink: /Image classification in keras/
 categories:
   - AI
-permalink: /Image classification in keras/
+permalink: /Image-classification-in-keras/
 classes: wide
 excerpt: Image classification in keras. 
 ---
