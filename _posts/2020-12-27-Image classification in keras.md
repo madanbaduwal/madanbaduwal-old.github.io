@@ -132,16 +132,16 @@ Folder Organization
               ├── image2.jpg
               ...
 
-``` {.sourceCode .}
+``` 
 from google.colab import drive
 drive.mount('/drive')
 ```
 
-``` {.sourceCode .}
+``` 
 data_dir = "/drive/My Drive/covid/data/train" 
 ```
 
-``` {.sourceCode .}
+``` 
 import tensorflow as tf
 # we usually do augumention with training dataset only because we need to incerase training dataset.
 training_data_generator = tf.keras.preprocessing.image.ImageDataGenerator( 
@@ -172,11 +172,11 @@ training_data_generator = tf.keras.preprocessing.image.ImageDataGenerator(
 )
 ```
 
-``` {.sourceCode .}
+``` 
 val_data_generator = tf.keras.preprocessing.image.ImageDataGenerator(rescale=1./255)
 ```
 
-``` {.sourceCode .}
+``` 
 # prepare iterator
 train_generator = training_data_generator.flow_from_directory( 
     data_dir,
@@ -196,11 +196,11 @@ train_generator = training_data_generator.flow_from_directory(
 )
 ```
 
-``` {.sourceCode .}
+``` 
 train_generator.class_indices
 ```
 
-``` {.sourceCode .}
+``` 
 val_generator = val_data_generator.flow_from_directory( 
     data_dir,
     target_size=(224, 224),
@@ -219,7 +219,7 @@ val_generator = val_data_generator.flow_from_directory(
 )
 ```
 
-``` {.sourceCode .}
+``` 
 val_generator.class_indices
 ```
 
@@ -257,12 +257,12 @@ Folder Organization
                 ...
             ...  
 
-``` {.sourceCode .}
+``` 
 train_data_dir = "/drive/My Drive/covid/dataset/train"
 val_data_dir = "/drive/My Drive/covid/dataset/test" 
 ```
 
-``` {.sourceCode .}
+``` 
 import tensorflow as tf
 training_data_generator = tf.keras.preprocessing.image.ImageDataGenerator( 
     featurewise_center=False,
@@ -290,16 +290,16 @@ training_data_generator = tf.keras.preprocessing.image.ImageDataGenerator(
 )
 ```
 
-``` {.sourceCode .}
+``` 
 val_data_generator = tf.keras.preprocessing.image.ImageDataGenerator(rescale=1./255)
 ```
 
-Here we have a directory so we need to use .flow\_from\_directory
+Here we have a directory so we need to use .flow_from_directory
 method.
 
-.flow\_from\_directory(directory)
+.flow_from_directory(directory)
 
-``` {.sourceCode .}
+``` 
 # prepare iterator
 train_generator = training_data_generator.flow_from_directory( 
     train_data_dir,
@@ -319,7 +319,7 @@ train_generator = training_data_generator.flow_from_directory(
 )
 ```
 
-``` {.sourceCode .}
+``` 
 val_generator = val_data_generator.flow_from_directory( 
     val_data_dir,
     target_size=(224, 224),
@@ -338,11 +338,11 @@ val_generator = val_data_generator.flow_from_directory(
 )
 ```
 
-.flow and .flow\_from\_dataframe mehods
+.flow and .flow_from_dataframe mehods
 
 -   .flow is used when we have a dataset in NumPy array of rank 4 or a
     tuple.
--   .flow\_from\_dataframe is use when pandas data frame. Which
+-   .flow_from_dataframe is use when pandas data frame. Which
     containing the file paths relative to the directory (or absolute
     paths if the directory is None) of the images in a string column.
 
@@ -370,7 +370,7 @@ Folder Organization
               ├── image2.jpg
               ...
 
-``` {.sourceCode .}
+``` 
 training_data = tf.keras.preprocessing.image_dataset_from_directory(
     data_dir,
     labels="inferred",
@@ -389,7 +389,7 @@ training_data = tf.keras.preprocessing.image_dataset_from_directory(
 )
 ```
 
-``` {.sourceCode .}
+``` 
 validation_data = tf.keras.preprocessing.image_dataset_from_directory(
     data_dir,
     labels="inferred",
@@ -441,7 +441,7 @@ Folder Organization
                 ...
             ...  
 
-``` {.sourceCode .}
+``` 
 training_data = tf.keras.preprocessing.image_dataset_from_directory(
     train_data_dir,
     labels="inferred",
@@ -459,7 +459,7 @@ training_data = tf.keras.preprocessing.image_dataset_from_directory(
 )
 ```
 
-``` {.sourceCode .}
+``` 
 validation_data = tf.keras.preprocessing.image_dataset_from_directory(
     val_data_dir,
     labels="inferred",
@@ -481,7 +481,7 @@ validation_data = tf.keras.preprocessing.image_dataset_from_directory(
 
 -   In the above we only define generator.
 
-``` {.sourceCode .}
+``` 
 import sys
 
 print(sys.getsizeof(training_data_generator))
@@ -494,11 +494,11 @@ Visualize preprocess data
 
 Here are the sample images in the training dataset.
 
-``` {.sourceCode .}
+``` 
 next(train_generator) 
 ```
 
-``` {.sourceCode .}
+``` 
 from matplotlib import pyplot 
 for X_batch, y_batch in training_generator:
     for i in range(0, 2):
@@ -514,13 +514,12 @@ learning. We will do transfer learning here.
 
 ### Build your model
 
-``` {.sourceCode .}
+
+``` 
 from keras.layers import *
 from keras.models import *
 from tensorflow import keras
-```
 
-``` {.sourceCode .}
 model = Sequential()
 model.add(Conv2D(32,kernel_size=(3,3),activation='relu',input_shape=(224,224,3)))
 model.add(Conv2D(64,(3,3),activation='relu'))
@@ -545,13 +544,11 @@ model.summary()
 
 #### InceptionV3 - Pretrained
 
-``` {.sourceCode .}
+``` 
 from keras.layers import Dense, GlobalAveragePooling2D
 from keras.models import Model
 from keras.optimizers import Adam
-```
 
-``` {.sourceCode .}
 from keras.applications.inception_v3 import InceptionV3
 
 base_model=keras.applications.inception_v3.InceptionV3(weights='imagenet',include_top=False)
@@ -572,7 +569,7 @@ Train models(ML pipeline)
 
 ### Define hyperparameters
 
-``` {.sourceCode .}
+``` 
 # Hyperparams
 IMAGE_SIZE = 224
 IMAGE_WIDTH, IMAGE_HEIGHT = IMAGE_SIZE, IMAGE_SIZE
@@ -589,11 +586,11 @@ How model.fit work?
 
 Fits the model on data yielded batch-by-batch by a Python generator.
 
-``` {.sourceCode .}
+``` 
 pip install livelossplot
 ```
 
-``` {.sourceCode .}
+``` 
 from livelossplot import PlotLossesKeras
 from keras.callbacks import CSVLogger
 
@@ -616,7 +613,7 @@ Model Evaluation on validation data
 Here we evaluate the model on validation set because validation is not
 used in training so it’s like unknown data for the model.
 
-``` {.sourceCode .}
+``` 
 from sklearn.metrics import classification_report, confusion_matrix, roc_curve, auc
 import seaborn as sns
 
@@ -676,7 +673,7 @@ plt.show()
 Run inference on test data
 --------------------------
 
-``` {.sourceCode .}
+``` 
 image_path = input("Input the path of image to predict")
   img = keras.preprocessing.image.load_img(
       image_path, target_size=(128,128)
