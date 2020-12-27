@@ -505,6 +505,7 @@ for X_batch, y_batch in training_generator:
         pyplot.show()
     break
 ```
+
 Build and compile models
 ------------------------
 
@@ -685,6 +686,4 @@ image_path = input("Input the path of image to predict")
   print("Normal % is:",score[0])
 ```
 
-References
-==========
 
