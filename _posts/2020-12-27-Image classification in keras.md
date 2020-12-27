@@ -689,7 +689,3 @@ image_path = input("Input the path of image to predict")
 References
 ==========
 
--   <https://keras.io/api/preprocessing/image/>
--   <https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/>
--   <https://machinelearningmastery.com/image-augmentation-deep-learning-keras/>
-
