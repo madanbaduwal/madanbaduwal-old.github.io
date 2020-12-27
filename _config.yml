@@ -78,9 +78,7 @@ author:
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
       url: "www.linkedin.com/in/madan-baduwal-a688bb186"
-    - label: "stackoverflow"
-      icon: "fa fa-stack-overflow"
-      url: "https://stackoverflow.com/users/13783264"
+   
     # - label: "Subscribe"
     #   icon: "fas fa-fw fa-envelope"
     #   url: "https://feedburner.google.com/fb/a/mailverify?uri=MadanBaduwal&amp;loc=en_US"
