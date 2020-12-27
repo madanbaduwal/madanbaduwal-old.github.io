@@ -1,12 +1,26 @@
-Keras for any image classification task
+date: 2020-12-27T00:00-00:00
+last_modified_at: 2020-12-27T00:00:00-00:00
+permalink: /AI/
+categories:
+  - AI
+permalink: /AI/
+classes: wide
+excerpt: Image classification in keras. 
+---
+
+Keras for any image classification task.
 =======================================
 
 Introduction
 ------------
 
-Computer vision task : \* Recognition \* Semantic Segmentation \* Image
-Classification \* Object Localization \* Object Detection \* Instance
-Segmentation
+Computer vision task : 
+* Recognition 
+    * Semantic Segmentation 
+    * Image Classification 
+    * Object Localization 
+    * Object Detection 
+    * Instance Segmentation
 
 -   Motion analysis
 -   Scene reconstruction
@@ -28,7 +42,7 @@ resource.
 Note: Data should be genuine. \* Dataset and algorithm accuracy play an
 important role while publishing a research paper.
 
-\#\#\# Train dataset
+### Train dataset
 
 -   It is the set of data used to train the model.
 -   During each epoch a model will be trained over and over again on the
@@ -490,11 +504,6 @@ for X_batch, y_batch in training_generator:
         pyplot.show()
     break
 ```
-
-![image](1_General_methods_for_any_image_classifier_in_keras_files/1_General_methods_for_any_image_classifier_in_keras_34_0.png)
-
-![image](1_General_methods_for_any_image_classifier_in_keras_files/1_General_methods_for_any_image_classifier_in_keras_34_1.png)
-
 Build and compile models
 ------------------------
 
@@ -661,10 +670,6 @@ plt.title('Receiver operating characteristic example')
 plt.legend(loc="lower right")
 plt.show()
 ```
-
-![image](1_General_methods_for_any_image_classifier_in_keras_files/1_General_methods_for_any_image_classifier_in_keras_50_1.png)
-
-![image](1_General_methods_for_any_image_classifier_in_keras_files/1_General_methods_for_any_image_classifier_in_keras_50_3.png)
 
 Run inference on test data
 --------------------------
