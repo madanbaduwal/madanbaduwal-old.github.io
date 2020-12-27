@@ -1,5 +1,5 @@
 ---
-title: "Covid-19_Detection"
+title: "Covid-19 Detection"
 date: 2020-12-22T00:00-00:00
 last_modified_at: 2020-12-22T00:00:00-00:00
 permalink: /AI/
@@ -7,7 +7,7 @@ categories:
   - AI
 permalink: /AI/
 classes: wide
-excerpt: Covid-19_Detection_from_Lung_X_rays_images. 
+excerpt: Covid-19 Detection from Lung X-rays images. 
 ---
 In this assignment we will learn how to create ML model for Covid-19_Detection_Lung_X_rays_images in google drive. 
 For complete project follow this [githublink](https://github.com/MadanBaduwal/Covid-19-Detection-from-Lung-X-rays).
