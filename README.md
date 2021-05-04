@@ -81,11 +81,17 @@ TXT record : Madanbaduwal.com.np points to  <text copy from google search consol
 
 #### 9.[Reference](https://mmistakes.github.io/minimal-mistakes)
 
-# 10. Writing POST In This project
 
-## 1. Directly write on .md file
+# 10. Creating a pages
+## 1. Goto _pages folder and create pages.
 
-## 2. Write on notebook(.ipynb)
+# 11. Creating posts
+
+## 1. Goto _posts fokder and create posts.
+
+## 2. Directly write on .md file
+
+## 3. Write on notebook(.ipynb)
 ### a. First convert .ipynb into .rst (we can't directly convert .ipynb to .md)
 #### For this use nbconvert
      ```
