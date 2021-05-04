@@ -84,10 +84,12 @@ TXT record : Madanbaduwal.com.np points to  <text copy from google search consol
 
 # 10. Creating a pages
 ## 1. Goto _pages folder and create pages.
+Note: page ma click garni bitikai auni banaunai kura haru yahi lekhni .
+Yadi post haru lekhnu x vanya post ma lekhni.
 
 # 11. Creating posts
 
-## 1. Goto _posts fokder and create posts.
+## 1. Goto _posts folder and create posts.
 
 ## 2. Directly write on .md file
 
