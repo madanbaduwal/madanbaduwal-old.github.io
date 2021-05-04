@@ -91,20 +91,6 @@ Yadi post haru lekhnu x vanya post ma lekhni.
 
 ## 1. Goto _posts folder and create posts.
 
-## 2. Directly write on .md file
+## 2. Directly write by markdown language on .md file.
 
-## 3. Write on notebook(.ipynb)
-### a. First convert .ipynb into .rst (we can't directly convert .ipynb to .md)
-#### For this use nbconvert
-     ```
-     pip install nbconvert
-     
-     jupyter nbconvert --to <output format> <input notebook>
-     
-     example : jupyter nbconvert --to rst mynotebook.ipynb
-    ```
-### b. Second convert .rst to .md using online
-
- https://cloudconvert.com/rst-to-md
-
- 
+.md means mark-down so we can write markdown language.
