@@ -83,14 +83,42 @@ TXT record : Madanbaduwal.com.np points to  <text copy from google search consol
 
 
 # 10. Creating a pages
+
+## 1. Goto _data and add title and url
+```
+main:
+  - title: "Posts"
+    url: /posts/
+  - title: "Post collections"
+    url: /postcollections/
+  - title: "About"
+    url: /about/
+    
+```
 ## 1. Goto _pages folder and create pages.
+```
+permalink: /about/
+title: "About"
+classes: wide
+excerpt: Learn about me, who iam and what I do.
+
+```
+
+**Be sure the permalink: matches the url in navigation.yml file.**
+
 Note: page ma click garni bitikai auni banaunai kura haru yahi lekhni .
 Yadi post haru lekhnu x vanya post ma lekhni.
+
 
 # 11. Creating posts
 
 ## 1. Goto _posts folder and create posts.
 
-## 2. Directly write by markdown language on .md file.
+
+Page vs post
+* page ma classes: wide vanyara hunxa 
+* post ma layout : categories,posts  vanyara hunxa.
+
+# NOte : Directly write by markdown language on .md file.
 
 .md means mark-down so we can write markdown language.
