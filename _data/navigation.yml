@@ -5,7 +5,7 @@ main:
     url: /postcollections/
   - title: "About"
     url: /about/
-  - title:"Publications"
+  - title: "Publications"
     url: /publications/
 
 # Create link
