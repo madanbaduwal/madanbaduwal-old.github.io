@@ -118,6 +118,8 @@ Yadi post haru lekhnu x vanya post ma lekhni.
 Page vs post
 * page ma classes: wide vanyara hunxa 
 * post ma layout : categories,posts  vanyara hunxa.
+# Note if page and post configuration properly set vayo vanya thyakka mathi bar ma yellow point dekhinxa github action pass vanyara.
+![image](https://github.com/MadanBaduwal/MadanBaduwal.github.io/blob/main/images/info.png)
 
 # NOte : Directly write by markdown language on .md file.
 
