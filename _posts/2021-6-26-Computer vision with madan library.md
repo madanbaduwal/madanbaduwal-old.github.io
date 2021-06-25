@@ -9,8 +9,8 @@ classes: wide
 excerpt: Computer vision with madan library. 
 ---
 
-Computer vision with madan library.
+Introduction
 =======================================
 
-Introduction
+
 ------------
