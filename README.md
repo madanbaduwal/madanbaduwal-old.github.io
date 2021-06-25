@@ -12,7 +12,7 @@ bundle
 make
 ```
 
-## For custome domain
+## For custome domain (custome domain ko lagi maile CNAME file delete gardeko xu tyo file add garyara  madanbaduwal.com.np yati add garni)
 .np domain have no option CNAME so we follow cloudflare
 ### Steps
 #### 1. Go to the https://www.cloudflare.com/en-au/
@@ -32,7 +32,7 @@ make
 Note : Primary name server and Secondary name server are different for all users so try to copy other , look in your cloudfair account.
 
 
-#### 2. Go to the egister.com.np
+#### 2. Go to the register.com.np
 * Pest you Primary name server and Secondary name server from cloudfair
 
 #### 3. After 24 hours you will gate update
