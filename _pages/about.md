@@ -4,7 +4,7 @@ title: "About"
 classes: wide
 excerpt: Learn about me, who iam and what I do.
 ---
-Even I don't know who I am till now. But from weatern society to getting Partial scholarship at Tribhuvan University to being depressed and suicide attempt to being a machine learning engineer currently at Fusemachines; life has been amazing. Check 'About me' for long answer :)
+Even I don't know who I am till now. But from weatern society to getting Partial scholarship at Tribhuvan University to being depressed and suicide attempt to being a machine learning engineer currently at Fusemachines; life has been amazing.
 
 In this blog, I explain new things related to programming, mathematics, database, bigdata, datascience and  artificial intelligence from my weakly study schedule.  
 
