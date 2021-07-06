@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Computer vision with madan library"
 date: 2021-6-26T00:00-00:00
 last_modified_at: 2021-6-26T00:00:00-00:00
@@ -17,3 +17,4 @@ Introduction
 
 
 ![](https://github.com/MadanBaduwal/MadanBaduwal.github.io/blob/main/images/2.cv.gif)
+ -->
