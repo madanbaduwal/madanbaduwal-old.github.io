@@ -2,10 +2,10 @@
 title: "Covid-19 Detection"
 date: 2020-12-22T00:00-00:00
 last_modified_at: 2020-12-22T00:00:00-00:00
-permalink: /AI/
+permalink: /AI Projects/
 categories:
-  - AI
-permalink: /AI/
+  - AI Projects
+permalink: /AI Projects/
 classes: wide
 excerpt: Covid-19 Detection from Lung X-rays images. 
 ---
