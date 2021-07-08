@@ -121,6 +121,9 @@ Page vs post
 # Note if page and post configuration properly set vayo vanya thyakka mathi bar ma yellow point dekhinxa github action pass vanyara.
 ![image](https://github.com/MadanBaduwal/MadanBaduwal.github.io/blob/main/images/info.png)
 
-# NOte : Directly write by markdown language on .md file.
+# Conver .ipynb to .md file formate.
+```
+pip install jupytext
 
-.md means mark-down so we can write markdown language.
+jupytext --to markdown Pythonfunctions.ipynb
+```
