@@ -1,14 +1,14 @@
 ---
-jupyter:
-  jupytext:
-    text_representation:
-      extension: .md
-      format_name: markdown
-      format_version: '1.3'
-      jupytext_version: 1.11.3
-  kernelspec:
-    display_name: Python 3
-    name: python3
+title: "Python functions"
+date: 2021-07-08T00:00-00:00
+last_modified_at: 2021-07-08T00:00:00-00:00
+permalink: /Python/
+categories:
+  - Python
+permalink: /Python/
+permalink: /Pythonfunctions/
+classes: wide
+excerpt: Python functions. 
 ---
 
 <!-- #region id="8Zd-VusP5pM-" -->
@@ -16,7 +16,7 @@ In this lessons, we'll learn about the basics of Python function.
 <!-- #endregion -->
 
 <!-- #region id="CB9O_JhPxBEb" -->
-#All about the Function in python
+# All about the Function in python
 <!-- #endregion -->
 
 <!-- #region id="pgYnhC8U6Inp" -->
@@ -67,6 +67,8 @@ def print_hello():
   print(f"Hello")
 
 print_hello()
+
+>>> Hello
 ```
 
 <!-- #region id="2ugnfDOAeDns" -->
@@ -97,16 +99,19 @@ Calling a function in different ways:
 ```python colab={"base_uri": "https://localhost:8080/"} id="xXGIOecHhcbq" outputId="fc6d1a2d-d63e-4977-f64b-5c705d942656"
 # giving only the mendatory argument
 sum(1)
+>>> Sum of x, y, and z is:6
 ```
 
 ```python colab={"base_uri": "https://localhost:8080/"} id="iRZGk2dYhE35" outputId="275cbf22-1e92-41be-ebaf-be2aca44afa0"
 # Giving one of the option arguments
 sum(3,4)
+>>> Sum of x, y, and z is:10
 ```
 
 ```python colab={"base_uri": "https://localhost:8080/"} id="oPGl6I7skCP8" outputId="b3c3acba-89d8-4a9f-b40c-99be62e1e92d"
 # Giving all arguments
 sum(3,4,5)
+>>> Sum of x, y, and z is:12
 ```
 
 <!-- #region id="XGp7n3i_kSnI" -->
@@ -121,6 +126,7 @@ def function(arg=a):
 
 a = 15
 function()
+>>> 10
 ```
 
 <!-- #region id="7EapxZvKlNsR" -->
@@ -136,6 +142,10 @@ def append(a,L={}):
 print(append(1))
 print(append(2))
 print(append(3))
+
+>>> {1: 1}
+>>> {1: 1, 2: 2}
+>>> {1: 1, 2: 2, 3: 3}
 ```
 
 <!-- #region id="8O2yCnnyhKIg" -->
@@ -162,22 +172,27 @@ Calling a function in different ways:
 
 ```python colab={"base_uri": "https://localhost:8080/"} id="A1LiTVjJrFeb" outputId="b7942b2e-4800-4853-cedb-ea1fbea0afe6"
 add(1)
+>>> Sum of x, y, and z is:6
 ```
 
 ```python colab={"base_uri": "https://localhost:8080/"} id="GWouumQdraFr" outputId="97b47d4b-0989-4499-e150-b9da12620333"
 add(x=2)
+>>> Sum of x, y, and z is:7
 ```
 
 ```python colab={"base_uri": "https://localhost:8080/"} id="tz2uD9rqtD5e" outputId="fc0b5e3a-086b-4b72-f260-c2822682de5f"
 add(x=2,y=4)
+>>> Sum of x, y, and z is:9
 ```
 
 ```python colab={"base_uri": "https://localhost:8080/"} id="Ip8URNfbtKHb" outputId="f38d27db-bf7c-41c5-f6c7-cc40df10a5a3"
 add(1,2,3)
+>>> Sum of x, y, and z is:6
 ```
 
 ```python colab={"base_uri": "https://localhost:8080/"} id="GDjA5RyctOyU" outputId="887fa248-c1f9-4640-9717-90cf47b833ab"
 add(1,2,z=8)
+>>> Sum of x, y, and z is:11
 ```
 
 <!-- #region id="XVLCm1IQtWN2" -->
@@ -186,18 +201,40 @@ But some following calls are invalid:
 
 ```python colab={"base_uri": "https://localhost:8080/", "height": 163} id="fqqP--ERtiyK" outputId="8c7efcde-f844-48c7-ffd8-96fff203d1e9"
 add()
+>>> -
+TypeError                                 Traceback (most recent call last)
+<ipython-input-33-d5d29de3ed94> in <module>()
+----> 1 add()
+
+TypeError: add() missing 1 required positional argument: 'x'
 ```
 
 ```python colab={"base_uri": "https://localhost:8080/", "height": 129} id="RdPGRGCItpWM" outputId="69140284-17e6-4553-98a4-c27826eabe30"
 add(x=1,2)
+>>> File "<ipython-input-34-ea0ca97f0446>", line 1
+    add(x=1,2)
+           ^
+SyntaxError: positional argument follows keyword argument
 ```
 
 ```python colab={"base_uri": "https://localhost:8080/", "height": 163} id="Q1buEYJotwLm" outputId="eb9cea54-da2a-4105-fd64-8f3fa0738d08"
 add(5,x=2)
+>>> -
+TypeError                                 Traceback (most recent call last)
+<ipython-input-37-cf0a26e4ab05> in <module>()
+----> 1 add(5,x=2)
+
+TypeError: add() got multiple values for argument 'x'
 ```
 
 ```python colab={"base_uri": "https://localhost:8080/", "height": 163} id="wML5Qs8RuBRp" outputId="d3babaf8-b666-4c63-bab0-896fb7219378"
 add(k=2)
+>>> -
+TypeError                                 Traceback (most recent call last)
+<ipython-input-38-4063630c747d> in <module>()
+----> 1 add(k=2)
+
+TypeError: add() got an unexpected keyword argument 'k'
 ```
 
 <!-- #region id="mmsDr_pgu_G1" -->
@@ -252,11 +289,6 @@ def f(pos1, pos2, /):
 <!-- #region id="uGYMTijHE8lr" -->
 
 
-```
-# This is formatted as code
-```
-
-
 <!-- #endregion -->
 
 ```python colab={"base_uri": "https://localhost:8080/", "height": 129} id="ZCPi4VzH6J1x" outputId="98c72c2d-6570-4cdb-a06a-0cda644c87eb"
@@ -270,11 +302,11 @@ Note: poition only support 3.8
 
 <!-- #region id="Y-ciLl3mYhh7" -->
 ```
->>> pos_only_arg(1)
-1
+pos_only_arg(1)
+>>> 1
 
->>> pos_only_arg(arg=1)
-Traceback (most recent call last):
+pos_only_arg(arg=1)
+>>> Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 TypeError: pos_only_arg() got an unexpected keyword argument 'arg'
 
@@ -296,6 +328,12 @@ kwd_only_arg(3)
 
 ```python colab={"base_uri": "https://localhost:8080/"} id="GqSyT7bHY4Fb" outputId="74845dd8-6a70-4c0d-f2af-52695b66ccce"
 kwd_only_arg(arg=3)
+>>> -
+TypeError                                 Traceback (most recent call last)
+<ipython-input-8-896c53ef896c> in <module>()
+----> 1 kwd_only_arg(3)
+
+TypeError: kwd_only_arg() takes 0 positional arguments but 1 was given
 ```
 
 <!-- #region id="0zFzA4PoZHmV" -->
@@ -318,6 +356,8 @@ def arbitrary_argument(*args):
 
 ```python colab={"base_uri": "https://localhost:8080/"} id="gSmnVn5ycYDl" outputId="cb18ca87-c945-409f-cae7-3f28849f771e"
 print(arbitrary_argument("hi","iam","madan"))
+
+>>> ('hi', 'iam', 'madan')
 ```
 
 <!-- #region id="oiKnHbWjc5Ky" -->
@@ -336,6 +376,7 @@ def arbitrary_argument(*args):
 
 ```python id="SNDEspDsmamJ" colab={"base_uri": "https://localhost:8080/"} outputId="d1984795-6e34-45b9-f55a-8ef23b5a32b0"
 print(arbitrary_argument("hi","iam","madan"))
+>>> ['hi', 'iam', 'madan']
 ```
 
 <!-- #region id="N1xzf-PsjB5w" -->
@@ -353,6 +394,7 @@ def arbitrary_argument(**args):
 
 ```python colab={"base_uri": "https://localhost:8080/"} id="ZGBo9UwdfLsm" outputId="a988aff5-f631-4839-a179-37f2fae0cc5d"
 print(arbitrary_argument(hi="hi",iam="iam",Madan="Madan"))
+>>> {'hi': 'hi', 'iam': 'iam', 'Madan': 'Madan'}
 
 ```
 
@@ -386,6 +428,8 @@ Small anonymous functions can be created with the lambda keyword.
 
 ```python colab={"base_uri": "https://localhost:8080/"} id="MDakTa4bvf34" outputId="c2e7b166-a65b-4840-9b3b-89bcd8f03660"
 lambda a,b:a+b
+>>> <function __main__.<lambda>>
+
 ```
 
 <!-- #region id="r-t5oDBFDMvr" -->
@@ -394,20 +438,24 @@ calling lambda function
 
 ```python colab={"base_uri": "https://localhost:8080/"} id="2Kg0qsocDOZQ" outputId="43ddce58-09bb-4120-fc57-87a7ea6f2813"
 _(1,2) # Note _  call recent run things
+>>> 3
 ```
 
 ```python colab={"base_uri": "https://localhost:8080/", "height": 35} id="yrZXWc58DtaQ" outputId="d01c5501-2f2c-48af-e251-77549d2a77ab"
 _ #last output value
+>>> 3
 ```
 
 ```python colab={"base_uri": "https://localhost:8080/"} id="5J6IXq_0Dzof" outputId="9e690298-6815-4c16-a4bf-279595d46446"
 (lambda a,b:a*b)(2,3)# call lambda function
+>>> 6
 ```
 
 ```python colab={"base_uri": "https://localhost:8080/"} id="TTXrSAfrD-Ok" outputId="ac87a7dd-955c-4dea-f9eb-eb17b0172464"
 divide = lambda a,b: a/b
 
 divide(4,2) # calling lambda function
+>>> 2.0
 ```
 
 <!-- #region id="7zKWMUpL5d2l" -->
@@ -429,6 +477,7 @@ def facto(n):
 
 ```python colab={"base_uri": "https://localhost:8080/"} id="bMhYhcJKEt1b" outputId="14e724e9-55b3-488a-bee8-fa5cc9535442"
 facto(5)
+>>> 120
 ```
 
 <!-- #region id="QOnaCVs7E6y_" -->
@@ -475,6 +524,7 @@ def say_hi():
 
 decorate = uppercase_decorator(say_hi)
 decorate()
+>>> HELLO THERE
 ```
 
 <!-- #region id="sPDPsu8N9VsY" -->
@@ -487,6 +537,7 @@ def say_hi():
     return 'hello there'
 
 say_hi()
+>>> HELLO THERE
 ```
 
 <!-- #region id="7_mnf8lI7hqF" -->
@@ -525,6 +576,8 @@ def my_gen(n):
 
 ```python colab={"base_uri": "https://localhost:8080/"} id="wQ6rJOWzLry7" outputId="d314d267-95c2-4bb5-af9d-c270b0c523b4"
 my_gen(3) 
+>>> <generator object my_gen at 0x7f06035b3c50>
+
 ```
 
 <!-- #region id="_xITGSDwMGfI" -->
@@ -538,6 +591,11 @@ print(type(g))
 
 for x in g:
     print(x)
+    
+>>>  <class 'generator'>
+0
+1
+2
 ```
 
 <!-- #region id="O8wEAri98Iy_" -->
@@ -565,6 +623,11 @@ def my_function():
 
 ```python id="GG1_ft6WVSY8" colab={"base_uri": "https://localhost:8080/", "height": 85} outputId="6b6a00ad-99aa-4e1d-db53-447664095379"
 print(my_function.__doc__)
+
+>>> Do nothing, but document it.         # first latter capital and end with period
+                                            # second line is blank if there is multiple line for documentation string.
+     No, really, it doesn't do anything.     # indentation determine by first line open quote
+     
 ```
 
 <!-- #region id="AwC7z756XqtK" -->
@@ -579,6 +642,8 @@ def bio(name: str, address: str='address')->str: # colon (:) paxiko annotation h
 
 ```python id="ENjLAER_YR3-" colab={"base_uri": "https://localhost:8080/", "height": 52} outputId="19742e3e-bc71-44f4-b38a-85bfb06aebc9"
 bio(10)
+>>> ANnotation {'name': <class 'str'>, 'address': <class 'str'>, 'return': <class 'str'>}
+'andaddress'
 ```
 
 <!-- #region id="a_Pc2D_c46FK" -->
