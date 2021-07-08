@@ -11,23 +11,14 @@ classes: wide
 excerpt: Python functions. 
 ---
 
-<!-- #region id="8Zd-VusP5pM-" -->
 In this lessons, we'll learn about the basics of Python function. 
-<!-- #endregion -->
 
-<!-- #region id="CB9O_JhPxBEb" -->
 # All about the Function in python
-<!-- #endregion -->
 
-<!-- #region id="pgYnhC8U6Inp" -->
 A function is a sequence of statements that performs some kind of task. We use functions to eliminate code duplication.
-<!-- #endregion -->
 
-<!-- #region id="8nNJrZO6JvQ8" -->
 We will learn different types of function in these lessons as shown figure below:
-<!-- #endregion -->
 
-<!-- #region id="EVTfa1AcFmn-" -->
 
 | ![space-1.jpg](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2018/01/Python-Functions.jpg) | 
 |:--:| 
@@ -35,9 +26,8 @@ We will learn different types of function in these lessons as shown figure below
 
 
 
-<!-- #endregion -->
 
-<!-- #region id="VVOWd6j5xcC-" -->
+
 Before starting the function we need to recall the function name, arguments, and parameters.
 
 
@@ -52,17 +42,11 @@ return_value = function_name(arguments)
 ```
 
 
-<!-- #endregion -->
 
-<!-- #region id="g979LMnra2cu" -->
 ## Defining Function
-<!-- #endregion -->
 
-<!-- #region id="5DfsPh2CCjo3" -->
 We can define a function with the def keyword.
-<!-- #endregion -->
-
-```python colab={"base_uri": "https://localhost:8080/"} id="h8GXc1cJa8gL" outputId="4445895f-330b-4510-bb5c-13175062e3e8"
+```
 def print_hello():
   print(f"Hello")
 
@@ -71,54 +55,39 @@ print_hello()
 >>> Hello
 ```
 
-<!-- #region id="2ugnfDOAeDns" -->
 ### More on defining function
-<!-- #endregion -->
 
-<!-- #region id="i71my2D0eooM" -->
 We can define a function with a variable number of arguments.
-<!-- #endregion -->
 
-<!-- #region id="B5O1DmVMeqWK" -->
 #### Default Argument Values
-<!-- #endregion -->
 
-```python id="rWU7ZK3_fc3t"
+```
 # Defining function with default arguments
 def sum(x , y=2, z=3):
   print(f"Sum of x, y, and z is:{x+y+z}")
 ```
 
-<!-- #region id="_B5LimG8i8hU" -->
 Calling a function in different ways:
 
-
-
-<!-- #endregion -->
-
-```python colab={"base_uri": "https://localhost:8080/"} id="xXGIOecHhcbq" outputId="fc6d1a2d-d63e-4977-f64b-5c705d942656"
+```
 # giving only the mendatory argument
 sum(1)
 >>> Sum of x, y, and z is:6
 ```
 
-```python colab={"base_uri": "https://localhost:8080/"} id="iRZGk2dYhE35" outputId="275cbf22-1e92-41be-ebaf-be2aca44afa0"
+```
 # Giving one of the option arguments
 sum(3,4)
 >>> Sum of x, y, and z is:10
 ```
-
-```python colab={"base_uri": "https://localhost:8080/"} id="oPGl6I7skCP8" outputId="b3c3acba-89d8-4a9f-b40c-99be62e1e92d"
+```
 # Giving all arguments
 sum(3,4,5)
 >>> Sum of x, y, and z is:12
 ```
 
-<!-- #region id="XGp7n3i_kSnI" -->
 Note1 : The default values are evaluated at the point of function defination in the defining scope, so that
-<!-- #endregion -->
-
-```python colab={"base_uri": "https://localhost:8080/"} id="YqEst4YCkdwj" outputId="06859d0d-4aff-4397-d0f0-d00aec4056e8"
+```
 a = 10
 # The default value for variable arg is set at the time of function definition
 def function(arg=a):
@@ -129,11 +98,8 @@ function()
 >>> 10
 ```
 
-<!-- #region id="7EapxZvKlNsR" -->
 Note2: The default value is evaluated only once. This makes a difference when the default is a mutable object such as a list, dictionary, or instances of most classes. For example, the following function accumulates the arguments passed to it on subsequent calls:
-<!-- #endregion -->
-
-```python colab={"base_uri": "https://localhost:8080/"} id="yW4tuMEClV2Y" outputId="ff750ad5-531c-41de-f23f-6b4ae6262080"
+```
 # The default value is evaluated only once but in the case of mutable(list, dictionary...) we can evaluate many times.
 def append(a,L={}):
   L[a]=a
@@ -148,58 +114,42 @@ print(append(3))
 >>> {1: 1, 2: 2, 3: 3}
 ```
 
-<!-- #region id="8O2yCnnyhKIg" -->
 * Note: Order matter while calling in a default argument values function.
-<!-- #endregion -->
 
-<!-- #region id="nGBiD_xVoSfW" -->
 #### Keyword Arguments
-<!-- #endregion -->
 
-<!-- #region id="OdKnQU6sqAqy" -->
 Functions can also be called using keyword arguments of the form kwarg=value. For instance, the following function:
-<!-- #endregion -->
-
-```python id="gyNw2fS8qZtl"
+```
 def add(x,y=2,z=3):
   print(f"Sum of x, y, and z is:{x+y+z}")
 ```
 
-<!-- #region id="6hVQtxKdrEEp" -->
 Calling a function in different ways:
 
-<!-- #endregion -->
-
-```python colab={"base_uri": "https://localhost:8080/"} id="A1LiTVjJrFeb" outputId="b7942b2e-4800-4853-cedb-ea1fbea0afe6"
+```
 add(1)
 >>> Sum of x, y, and z is:6
 ```
 
-```python colab={"base_uri": "https://localhost:8080/"} id="GWouumQdraFr" outputId="97b47d4b-0989-4499-e150-b9da12620333"
+```
 add(x=2)
 >>> Sum of x, y, and z is:7
 ```
-
-```python colab={"base_uri": "https://localhost:8080/"} id="tz2uD9rqtD5e" outputId="fc0b5e3a-086b-4b72-f260-c2822682de5f"
+```
 add(x=2,y=4)
 >>> Sum of x, y, and z is:9
 ```
-
-```python colab={"base_uri": "https://localhost:8080/"} id="Ip8URNfbtKHb" outputId="f38d27db-bf7c-41c5-f6c7-cc40df10a5a3"
+```
 add(1,2,3)
 >>> Sum of x, y, and z is:6
 ```
-
-```python colab={"base_uri": "https://localhost:8080/"} id="GDjA5RyctOyU" outputId="887fa248-c1f9-4640-9717-90cf47b833ab"
+```
 add(1,2,z=8)
 >>> Sum of x, y, and z is:11
 ```
 
-<!-- #region id="XVLCm1IQtWN2" -->
 But some following calls are invalid:
-<!-- #endregion -->
-
-```python colab={"base_uri": "https://localhost:8080/", "height": 163} id="fqqP--ERtiyK" outputId="8c7efcde-f844-48c7-ffd8-96fff203d1e9"
+```
 add()
 >>> -
 TypeError                                 Traceback (most recent call last)
@@ -208,16 +158,14 @@ TypeError                                 Traceback (most recent call last)
 
 TypeError: add() missing 1 required positional argument: 'x'
 ```
-
-```python colab={"base_uri": "https://localhost:8080/", "height": 129} id="RdPGRGCItpWM" outputId="69140284-17e6-4553-98a4-c27826eabe30"
+```
 add(x=1,2)
 >>> File "<ipython-input-34-ea0ca97f0446>", line 1
     add(x=1,2)
            ^
 SyntaxError: positional argument follows keyword argument
 ```
-
-```python colab={"base_uri": "https://localhost:8080/", "height": 163} id="Q1buEYJotwLm" outputId="eb9cea54-da2a-4105-fd64-8f3fa0738d08"
+```
 add(5,x=2)
 >>> -
 TypeError                                 Traceback (most recent call last)
@@ -226,8 +174,7 @@ TypeError                                 Traceback (most recent call last)
 
 TypeError: add() got multiple values for argument 'x'
 ```
-
-```python colab={"base_uri": "https://localhost:8080/", "height": 163} id="wML5Qs8RuBRp" outputId="d3babaf8-b666-4c63-bab0-896fb7219378"
+```
 add(k=2)
 >>> -
 TypeError                                 Traceback (most recent call last)
@@ -237,15 +184,10 @@ TypeError                                 Traceback (most recent call last)
 TypeError: add() got an unexpected keyword argument 'k'
 ```
 
-<!-- #region id="mmsDr_pgu_G1" -->
 #### Special parameters
-<!-- #endregion -->
 
-<!-- #region id="KOYt_Uej0e88" -->
 Developer needs only look at the function definition to determine if items are passed by position, by position or keyword, or by keyword.
-<!-- #endregion -->
 
-<!-- #region id="vu5QjMhL4I9g" -->
 A function definition may look like:
 
 
@@ -259,48 +201,29 @@ def f(pos1, pos2, /, pos_or_kwd, *, kwd1, kwd2):
 ```
 
 
-<!-- #endregion -->
 
-<!-- #region id="y3eXZdq-4oRc" -->
 where / and * are optional. If used, these symbols indicate the kind of parameter by how the arguments may be passed to the function: positional-only, positional-or-keyword, and keyword-only. Keyword parameters are also referred to as named parameters.
-<!-- #endregion -->
 
-<!-- #region id="--lxFD0G43OK" -->
 ##### Positional-or-Keyword Arguments
-<!-- #endregion -->
 
-<!-- #region id="W4CPDrF_5Ctl" -->
 If / and * are not present in the function definition, arguments may be passed to a function by position or by keyword.
-<!-- #endregion -->
 
-<!-- #region id="W_ULHFJD5zDV" -->
 ##### Positional-Only Parameters
-<!-- #endregion -->
 
-<!-- #region id="K-Q7FQUr5-NL" -->
 ```
 def f(pos1, pos2, /):
       -----------    ----------     ----------
         |
          -- Positional only
 ```
-<!-- #endregion -->
 
-<!-- #region id="uGYMTijHE8lr" -->
-
-
-<!-- #endregion -->
-
-```python colab={"base_uri": "https://localhost:8080/", "height": 129} id="ZCPi4VzH6J1x" outputId="98c72c2d-6570-4cdb-a06a-0cda644c87eb"
+```
 def pos_only_arg(arg,/):
   print(arg)
 ```
 
-<!-- #region id="vpkzrNdGCm0Y" -->
 Note: poition only support 3.8
-<!-- #endregion -->
 
-<!-- #region id="Y-ciLl3mYhh7" -->
 ```
 pos_only_arg(1)
 >>> 1
@@ -311,23 +234,14 @@ pos_only_arg(arg=1)
 TypeError: pos_only_arg() got an unexpected keyword argument 'arg'
 
 ```
-<!-- #endregion -->
 
-<!-- #region id="2JBtXG5PXLvj" -->
 ##### Keyword-Only Parameters
-<!-- #endregion -->
-
-```python id="qy0Hk0BOYb0E"
+```
 def kwd_only_arg(*, arg):
     print(arg)
 ```
-
-```python colab={"base_uri": "https://localhost:8080/", "height": 197} id="lTKBz3mMYy5s" outputId="6bbee308-602f-4b58-b0d3-dcb4e9eb3314"
-kwd_only_arg(3)
 ```
-
-```python colab={"base_uri": "https://localhost:8080/"} id="GqSyT7bHY4Fb" outputId="74845dd8-6a70-4c0d-f2af-52695b66ccce"
-kwd_only_arg(arg=3)
+kwd_only_arg(3)
 >>> -
 TypeError                                 Traceback (most recent call last)
 <ipython-input-8-896c53ef896c> in <module>()
@@ -335,34 +249,29 @@ TypeError                                 Traceback (most recent call last)
 
 TypeError: kwd_only_arg() takes 0 positional arguments but 1 was given
 ```
+```
+kwd_only_arg(arg=3)
+>>> 3
+```
 
-<!-- #region id="0zFzA4PoZHmV" -->
 #### Arbitrary Argument 
 
-<!-- #endregion -->
 
-<!-- #region id="FacO-o93bclW" -->
 Function can be call with an arbitrary number of arguments. 
-<!-- #endregion -->
 
-<!-- #region id="LcD3rQd-i4fF" -->
 ##### Arbitrary Argument tuples
-<!-- #endregion -->
 
-```python id="gghfDMEXcSSf"
+```
 def arbitrary_argument(*args):
   return args
 ```
-
-```python colab={"base_uri": "https://localhost:8080/"} id="gSmnVn5ycYDl" outputId="cb18ca87-c945-409f-cae7-3f28849f771e"
+```
 print(arbitrary_argument("hi","iam","madan"))
 
 >>> ('hi', 'iam', 'madan')
 ```
 
-<!-- #region id="oiKnHbWjc5Ky" -->
 Note: From above we can see that  arguments are wrapped up in a tuple (see Tuples and Sequences)
-<!-- #endregion -->
 
 <!-- #region id="hFXd9vRTmSFx" -->
 ##### Arbitrary Argument lists
