@@ -8,7 +8,7 @@ categories:
 permalink: /Python/
 permalink: /Pythonfunctions/
 classes: wide
-excerpt: Python functions. 
+<!-- excerpt: Python functions.  -->
 ---
 
 In this lessons, we'll learn about the basics of Python function. 
