@@ -478,6 +478,32 @@ print(my_function.__doc__)
      No, really, it doesn't do anything.     # indentation determine by first line open quote
      
 ```
+#### Callback Function
+
+**What is a Callback Function?**
+
+A callback is a function that is passed as an argument to other function. This other function is expected to call this callback function in its definition. The point at which other function calls our callback function depends on the requirement and nature of other function.
+
+Callback Functions are generally used with asynchronous functions.
+
+Example for Callback Function: Callback Function can be passed to a function to print out the size of file after the function reads given text file.
+
+```
+def callbackFunc(s):
+    print('Length of the text file is : ', s)
+
+def printFileLength(path, callback):
+    f = open(path, "r")
+    length = len(f.read())
+    f.close()
+    callback(length)
+
+```
+```
+printFileLength("test.txt", callbackFunc)
+
+>>> Output : Length of the text file is : 40
+```
 
 #### Function Annotations
 ```
@@ -493,6 +519,6 @@ bio(10)
 
 # References
 
-* https://python-textbok.readthedocs.io/en/1.0/
+* [Readthedocs](https://python-textbok.readthedocs.io/en/1.0/)
 
-* https://realpython.com/python3-object-oriented-programming/
+* [Realpython](https://realpython.com/python3-object-oriented-programming/)
