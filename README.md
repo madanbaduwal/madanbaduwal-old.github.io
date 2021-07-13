@@ -148,7 +148,7 @@ jupytext --to markdown Pythonfunctions.ipynb
 
 ### For emojy you can use
 
-* [emojipedia]https://emojipedia.org/
+* [emojipedia](https://emojipedia.org/)
 
 
 # Reference
