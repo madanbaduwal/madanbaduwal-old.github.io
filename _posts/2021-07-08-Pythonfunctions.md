@@ -29,7 +29,8 @@ We will learn different types of function in these lessons as shown figure below
 Before starting the function we need to recall the function name, arguments, and parameters.
 
 
-```def function_name(parameters):
+```
+def function_name(parameters):
   statement
   statement
   ...
@@ -43,7 +44,7 @@ return_value = function_name(arguments)
 ## Defining Function
 
 We can define a function with the def keyword.
-```
+```python
 def print_hello():
   print(f"Hello")
 
