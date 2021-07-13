@@ -1,4 +1,4 @@
-# Run this project
+# Run this project 🏃
 ## For local run
 ### Install dependencies
 ```
@@ -127,3 +127,7 @@ pip install jupytext
 
 jupytext --to markdown Pythonfunctions.ipynb
 ```
+
+# For emojy
+
+* https://emojipedia.org/
