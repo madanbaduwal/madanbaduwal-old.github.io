@@ -9,38 +9,18 @@ permalink: /AI Projects/
 classes: wide
 excerpt: Covid-19 Detection from Lung X-rays images. 
 ---
-In this assignment we will learn how to create ML model for Covid-19_Detection_Lung_X_rays_images in google drive. 
-For complete project follow this [githublink](https://github.com/MadanBaduwal/Covid-19-Detection-from-Lung-X-rays).
+In this assignment, we will learn how to create an ML model for Covid-19 Lung X-rays images in google drive. Our task here will be a binary
+covid-19 Lung image classification of kaggle datasets.
 
-``` 
-#@title Mount drive
+Mount drive
+``` python
+# Mount drive
 from google.colab import drive
 drive.mount('/drive')
 ```
 
-``` 
-#@title Filterwarnings
-import warnings
 
-warnings.filterwarnings('ignore')
-```
-
-CNN architectures covid-19 Lung image classification
-=====================================================
-
-In this assignment, we will learn how we can use CNN architectures for
-covid-19 Lung image classification. Our task here will be a binary
-covid-19 Lung image classification of kaggle datasets.
-
-We will use the `Kaggle` dataset for this programming, available on
-kaggle.
-
-Learning objective
-------------------
-
--   Use CNN architectures for real covid-19 Lung image.
-
-Dataset Description
+# Dataset Description
 -------------------
 
 Here, we are going to use the raw
@@ -54,7 +34,8 @@ Here, we are going to use the raw
       url       = {https://www.kaggle.com/nabeelsajid917/covid-19-x-ray-10000-images?select=dataset}
     }
 
-### Load raw (provided) Dataset
+## Load raw (provided) Dataset
+----
 
 Here we have provided dataset :
 
@@ -62,13 +43,13 @@ Corona positive : 70
 
 Corona negative : 28
 
-Dataset is generated using data augmentation.
-
-Data Augumentation
-==================
 
 
-``` 
+## Data Augumentation
+----
+We have provided 70 positive images and 28 negatives. If we apply CNN we need lots of data set so, we need data augmentation to increase the training sample. Augmentation is the process of increasing training samples by flipping, color modification, cropping, rotation, noise injection, and random erasing.
+```python
+
 from keras.preprocessing.image import ImageDataGenerator
 from keras.preprocessing.image import img_to_array
 from imutils import paths
@@ -128,13 +109,14 @@ Paths = [("/drive/My Drive/covid/raw/covid",
 for i in Paths:
   data_augumentation(i[0],i[1])
 ```
+Augmented data and save it into the processed folder.
 
-### Load augumented (processed) Datasets
+## Load augumented (processed) Datasets
 
 Here after augumentation we had saved augumented dataset into processed
 folder. Load augumented(processed) dataset.
 
-``` 
+```python
 def  get_data(input_path):
     '''
     Get data from given path.
