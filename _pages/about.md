@@ -13,7 +13,7 @@ In this blog, I explain new things related to programming, mathematics, database
 I'm an engineer and researcher.
 who break things at day and build at night.
 
-**What I do**  
+**What I do?**  
 I do research in the field of AI and apply it to solve the real life problems at [Fusemachines](https://fusemachines.com) . 
 
 **Interest Areas**  
