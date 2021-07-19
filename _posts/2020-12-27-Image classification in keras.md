@@ -11,9 +11,6 @@ classes: wide
 excerpt: Image classification in keras. 
 ---
 
-Keras for any image classification task.
-=======================================
-
 Introduction
 ------------
 
@@ -133,16 +130,16 @@ Folder Organization
               ├── image2.jpg
               ...
 
-``` 
+```python
 from google.colab import drive
 drive.mount('/drive')
 ```
 
-``` 
+```python
 data_dir = "/drive/My Drive/covid/data/train" 
 ```
 
-``` 
+```python 
 import tensorflow as tf
 # we usually do augumention with training dataset only because we need to incerase training dataset.
 training_data_generator = tf.keras.preprocessing.image.ImageDataGenerator( 
@@ -173,11 +170,11 @@ training_data_generator = tf.keras.preprocessing.image.ImageDataGenerator(
 )
 ```
 
-``` 
+```python 
 val_data_generator = tf.keras.preprocessing.image.ImageDataGenerator(rescale=1./255)
 ```
 
-``` 
+```python 
 # prepare iterator
 train_generator = training_data_generator.flow_from_directory( 
     data_dir,
@@ -197,11 +194,11 @@ train_generator = training_data_generator.flow_from_directory(
 )
 ```
 
-``` 
+```python 
 train_generator.class_indices
 ```
 
-``` 
+```python 
 val_generator = val_data_generator.flow_from_directory( 
     data_dir,
     target_size=(224, 224),
@@ -220,7 +217,7 @@ val_generator = val_data_generator.flow_from_directory(
 )
 ```
 
-``` 
+```python 
 val_generator.class_indices
 ```
 
@@ -258,12 +255,12 @@ Folder Organization
                 ...
             ...  
 
-``` 
+```python 
 train_data_dir = "/drive/My Drive/covid/dataset/train"
 val_data_dir = "/drive/My Drive/covid/dataset/test" 
 ```
 
-``` 
+```python 
 import tensorflow as tf
 training_data_generator = tf.keras.preprocessing.image.ImageDataGenerator( 
     featurewise_center=False,
@@ -291,7 +288,7 @@ training_data_generator = tf.keras.preprocessing.image.ImageDataGenerator(
 )
 ```
 
-``` 
+```python 
 val_data_generator = tf.keras.preprocessing.image.ImageDataGenerator(rescale=1./255)
 ```
 
@@ -300,7 +297,7 @@ method.
 
 .flow_from_directory(directory)
 
-``` 
+```python 
 # prepare iterator
 train_generator = training_data_generator.flow_from_directory( 
     train_data_dir,
@@ -320,7 +317,7 @@ train_generator = training_data_generator.flow_from_directory(
 )
 ```
 
-``` 
+```python 
 val_generator = val_data_generator.flow_from_directory( 
     val_data_dir,
     target_size=(224, 224),
@@ -371,7 +368,7 @@ Folder Organization
               ├── image2.jpg
               ...
 
-``` 
+```python 
 training_data = tf.keras.preprocessing.image_dataset_from_directory(
     data_dir,
     labels="inferred",
@@ -390,7 +387,7 @@ training_data = tf.keras.preprocessing.image_dataset_from_directory(
 )
 ```
 
-``` 
+```python 
 validation_data = tf.keras.preprocessing.image_dataset_from_directory(
     data_dir,
     labels="inferred",
@@ -442,7 +439,7 @@ Folder Organization
                 ...
             ...  
 
-``` 
+```python 
 training_data = tf.keras.preprocessing.image_dataset_from_directory(
     train_data_dir,
     labels="inferred",
@@ -460,7 +457,7 @@ training_data = tf.keras.preprocessing.image_dataset_from_directory(
 )
 ```
 
-``` 
+```python 
 validation_data = tf.keras.preprocessing.image_dataset_from_directory(
     val_data_dir,
     labels="inferred",
@@ -482,7 +479,7 @@ validation_data = tf.keras.preprocessing.image_dataset_from_directory(
 
 -   In the above we only define generator.
 
-``` 
+```python 
 import sys
 
 print(sys.getsizeof(training_data_generator))
@@ -495,11 +492,11 @@ Visualize preprocess data
 
 Here are the sample images in the training dataset.
 
-``` 
+```python
 next(train_generator) 
 ```
 
-``` 
+```python 
 from matplotlib import pyplot 
 for X_batch, y_batch in training_generator:
     for i in range(0, 2):
@@ -517,7 +514,7 @@ learning. We will do transfer learning here.
 ### Build your model
 
 
-``` 
+```python 
 from keras.layers import *
 from keras.models import *
 from tensorflow import keras
@@ -546,7 +543,7 @@ model.summary()
 
 #### InceptionV3 - Pretrained
 
-``` 
+```python 
 from keras.layers import Dense, GlobalAveragePooling2D
 from keras.models import Model
 from keras.optimizers import Adam
@@ -571,7 +568,7 @@ Train models(ML pipeline)
 
 ### Define hyperparameters
 
-``` 
+```python 
 # Hyperparams
 IMAGE_SIZE = 224
 IMAGE_WIDTH, IMAGE_HEIGHT = IMAGE_SIZE, IMAGE_SIZE
@@ -588,11 +585,8 @@ How model.fit work?
 
 Fits the model on data yielded batch-by-batch by a Python generator.
 
-``` 
-pip install livelossplot
-```
 
-``` 
+```python 
 from livelossplot import PlotLossesKeras
 from keras.callbacks import CSVLogger
 
@@ -615,7 +609,7 @@ Model Evaluation on validation data
 Here we evaluate the model on validation set because validation is not
 used in training so it’s like unknown data for the model.
 
-``` 
+```python
 from sklearn.metrics import classification_report, confusion_matrix, roc_curve, auc
 import seaborn as sns
 
@@ -675,7 +669,7 @@ plt.show()
 Run inference on test data
 --------------------------
 
-``` 
+```python 
 image_path = input("Input the path of image to predict")
   img = keras.preprocessing.image.load_img(
       image_path, target_size=(128,128)
