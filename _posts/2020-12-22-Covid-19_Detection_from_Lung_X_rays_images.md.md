@@ -45,7 +45,7 @@ Corona negative : 28
 
 
 
-## Data Augumentation
+# Data Augumentation
 ----
 We have provided 70 positive images and 28 negatives. If we apply CNN we need lots of data set so, we need data augmentation to increase the training sample. Augmentation is the process of increasing training samples by flipping, color modification, cropping, rotation, noise injection, and random erasing.
 ```python
@@ -101,7 +101,7 @@ def data_augumentation(input_path, output_path):
 
 Covid postive and negative data augumentation
 
-``` 
+``` python
 Paths = [("/drive/My Drive/covid/raw/covid",
         "/drive/My Drive/covid/processed/covid"),
        ("/drive/My Drive/covid/raw/normal",
@@ -111,7 +111,7 @@ for i in Paths:
 ```
 Augmented data and save it into the processed folder.
 
-## Load augumented (processed) Datasets
+# Load augumented (processed) Datasets
 
 Here after augumentation we had saved augumented dataset into processed
 folder. Load augumented(processed) dataset.
@@ -142,8 +142,8 @@ def  get_data(input_path):
     return data,labels
 ```
 
-Data preprocessing
-------------------
+# Data preprocessing
+----
 
 In this section, you will complete a `data_preprocessing` function to
 clean the data and labels.
@@ -153,7 +153,7 @@ clean the data and labels.
 -   Binarize the label using `LabelBinarizer()`
 -   Convert binarizerd labels into categorical vectors.
 
-``` 
+``` python
 from tensorflow.keras.utils import to_categorical
 from sklearn.preprocessing import LabelBinarizer
 
@@ -178,13 +178,13 @@ def data_preprocessing(data,labels):
     return data,labels,lb
 ```
 
-Train-Test split
-----------------
+# Train-Test split
+----
 
 We use sklearn `train_test_split` function to split data into train and
 test.
 
-``` 
+```python
 from sklearn.model_selection import train_test_split
 
 
@@ -195,19 +195,19 @@ def data_split(data,labels):
     return (trainX, testX, trainY, testY)
 ```
 
-``` 
+```python
 input_path = "/drive/My Drive/covid/processed"
 data,labels = get_data(input_path)
 data,labels,lb = data_preprocessing(data,labels)
 (trainX, testX, trainY, testY) = data_split(data,labels)
 ```
 
-Create models
--------------
+# Create models
+----
 
-### VGG16
+## VGG16
 
-``` 
+```python 
 from tensorflow.keras.applications import VGG16
 from tensorflow.keras.layers import AveragePooling2D
 from tensorflow.keras.layers import Dropout
@@ -263,10 +263,10 @@ class Model_VGG16:
         self.model.save("model.h5")
 ```
 
-Model evaluation
-----------------
+# Model evaluation
+----
 
-``` 
+```python
 from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
 import matplotlib.pyplot as plt
@@ -301,10 +301,10 @@ def model_evaluation(History, predIdxs, lb,testX,testY):
     plt.legend(loc="lower left")
 ```
 
-ML pipeline
------------
+# ML pipeline
+----
 
-``` 
+```python 
 INIT_LR = 1e-3
 EPOCHS = 100
 BS = 128
@@ -314,7 +314,7 @@ predIdxs = model_vgg16.predict(testX)
 #print(History.history.keys())
 ```
 
-``` 
+```python 
 model_evaluation(History, predIdxs, lb,testX,testY)
 ```
 
