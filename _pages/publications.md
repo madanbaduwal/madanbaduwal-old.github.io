@@ -94,16 +94,17 @@ My reaearch focus, computer vision and machine learning.
 
 1. P. R. Prajapati, S. Poudel, M. Baduwal, S. Burlakoti, and S. P. Panday, “Signature Verification using Convolutional Neural Network & Autoencoder ”, JIE, vol. 16, no. 1, pp. 33 - 40, Apr. 2021.
 <div class="row">
-  
-  <div class="column_home" id="left-col" align="center">
-    <div style="width:100%; text-align:justify; align-content:left; display:inline-block;">
-		<input action="action" class="button" type="button" value="Paper Link" onclick="location.href='https://tuta.pcampus.edu.np/journal/index.php/jie/article/view/16-01-05/fulltext-160105';"/>
-    </div>
-  </div>
+ 
   
   <div class="column_home" id="left-col" align="center">
     <div style="width:100%; text-align:justify; align-content:left; display:inline-block;">
 		<input action="action" class="button" type="button" value="Slides" onclick=" "/>
+    </div>
+  </div>
+	
+  <div class="column_home" id="left-col" align="center">
+    <div style="width:100%; text-align:justify; align-content:left; display:inline-block;">
+		<input action="action" class="button" type="button" value="Paper Link" onclick="location.href='https://tuta.pcampus.edu.np/journal/index.php/jie/article/view/16-01-05/fulltext-160105';"/>
     </div>
   </div>
 
