@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /papers/
+permalink: /publications/
 author_profile: true
 title: "Papers and submissions"
 ---
