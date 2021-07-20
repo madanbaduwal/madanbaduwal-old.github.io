@@ -86,8 +86,7 @@ i {
 
 ## Research
 
-My reaearch focus, regarding ROXANNE EU-funded project, is speaker verification and speech recognition in the context of criminal activities. I explore the various ways to leverage criminal network topology. I am more broadly interested in applied Machine Learning, and in applications of ML in the Medical Field. 
-
+My reaearch focus, computer vision and machine learning.
 ## Publications
 
 ---
@@ -113,27 +112,7 @@ My reaearch focus, regarding ROXANNE EU-funded project, is speaker verification 
 ---
 
 
-## News
-
-I am also sharing some informal news on the following social networks:
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5059-0219" href="https://orcid.org/0000-0002-5059-0219" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a></div>
-
-<input action="action" class="button" type="button" value="Find me on Google Scholar" onclick="location.href='https://scholar.google.com/citations?user=r9hJzdwAAAAJ&hl=en';"/>
-
-<input action="action" class="button" type="button" value="Find me on Research Gate" onclick="location.href='https://www.researchgate.net/profile/Mael_Fabien';"/>
-
-<input action="action" class="button" type="button" value="Find me on GitHub" onclick="location.href='https://github.com/maelfabien';"/>
-
-<input action="action" class="button" type="button" value="Find me on LinkedIn" onclick="location.href='https://www.linkedin.com/in/mael-fabien';"/>
-
-<input action="action" class="button" type="button" value="Find me on Twitter" onclick="location.href='https://twitter.com/fabien_mael';"/>
-
-
-
-
 <br>
 
 <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us3.list-manage.com","uuid":"c76a8e2ec2bd989affb9a074f","lid":"4646542adb","uniqueMethods":true}) })</script>
 
- [Paper Link](https://tuta.pcampus.edu.np/journal/index.php/jie/article/view/16-01-05/fulltext-160105)
