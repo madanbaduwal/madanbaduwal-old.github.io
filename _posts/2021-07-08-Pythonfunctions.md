@@ -2,13 +2,15 @@
 title: "Python functions"
 date: 2021-07-08T00:00-00:00
 last_modified_at: 2021-07-08T00:00:00-00:00
-permalink: /Python/
 categories:
   - Python
-permalink: /Python/
 permalink: /Pythonfunctions/
 classes: wide
-excerpt: Python functions. 
+excerpt: Different type of python functions. 
+
+header:
+  og_image: /images/https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2018/01/Python-Functions.jpg
+  teaser: /images/https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2018/01/Python-Functions.jpg
 ---
 
 In this lessons, we'll learn about the basics of Python function. 
