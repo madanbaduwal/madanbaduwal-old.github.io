@@ -2,8 +2,13 @@
 permalink: /about/
 title: "About"
 classes: wide
-excerpt: Learn about me, who iam and what I do.
+excerpt: Learn about me, who iam and what I do. 
 ---
+**Resume**
+
+📃 You can find my [Resume](https://drive.google.com/file/d/1S5wtdWJVmrDb2f_YPwLhAYNYr3E2f3cJ/view?usp=sharing) here.
+
+
 Even I don't know who I am till now. But from western society of Nepal to getting Partial scholarship at Tribhuvan University to being depressed and suicide attempt to being a machine learning engineer currently at Fusemachines; life has been amazing.
 
 In this blog, I explain new things related to programming, mathematics, database, bigdata, datascience and  artificial intelligence.  
