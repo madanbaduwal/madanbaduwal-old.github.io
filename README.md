@@ -115,7 +115,7 @@ Note: page ma click garni bitikai auni banaunai kura haru yahi lekhni .
 Yadi post haru lekhnu x vanya post ma lekhni.
 
 
-# 11. Creating posts
+#  Creating posts
 
 ## 1. Goto _posts folder and create posts.
 
@@ -125,6 +125,14 @@ Page vs post
 * post ma layout : categories,posts  vanyara hunxa.
 # Note if page and post configuration properly set vayo vanya thyakka mathi bar ma yellow point dekhinxa github action pass vanyara.
 ![image](https://github.com/MadanBaduwal/MadanBaduwal.github.io/blob/main/images/info.png)
+
+# Creating a collections ( project / talks / session ... haruko collection banauna ko lagi)
+
+* Goto the ```_data``` > navigation.yml file and create new pages with new title and  url.
+* Goto the ```_pages`` folder and create new .html file (eg: portfolio-archive.html) note page url = permalink of this .html file
+* Write collection in ``_post`` folder
+
+**Important note : main file is ```_config.yml``` file ho so tyo file ma kai update garyasi mathi github ko line ma herhani pass vaya ki vavyana  vanyara**
 
 ## Note while writing post
 
