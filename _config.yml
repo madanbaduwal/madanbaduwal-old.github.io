@@ -38,7 +38,7 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Kathmandu
 
-teaser: /images/default_post_image.jpg
+# teaser: /images/default_post_image.jpg
 
 # header:
 #   teaser: /images/default_post_image.jpg
