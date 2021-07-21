@@ -105,7 +105,7 @@ Yadi post haru lekhnu x vanya post ma lekhni.
 
 **Note : different search engine ma afno site verify garnuparni ani tyo search tool le afai khojxa , there are lots of search engine tool**
 
-## Google Search Console(google search engine ma visiable  banauna , google search console ma verify garaunu parxa)
+## [Google Search Console](https://search.google.com/)(google search engine ma visiable  banauna , google search console ma verify garaunu parxa)
 * Formerly known as Google Webmaster Tools, add your verification code in ```___config.yml``` like so: google_site_verification: "yourVerificationCode"
 
 ## [Bing Webmaster Tools](https://www.bing.com/webmasters/help/add-and-verify-site-12184f8b?tid=ef68211b-35d5-438b-985b-27519fb3ce32#) ( Bing ma website visiable banauna yo chai)
