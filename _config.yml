@@ -38,10 +38,7 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Kathmandu
 
-# teaser: /images/default_post_image.jpg
 
-# header:
-#   teaser: /images/default_post_image.jpg
 
 og_image: /images/default_post_image.jpg
 
@@ -90,7 +87,7 @@ author:
     #   url: "https://feedburner.google.com/fb/a/mailverify?uri=MadanBaduwal&amp;loc=en_US"
 #    - label: "Email"
 #      icon: "fab fa-envelope"
-#      url: "mailto:meamitkc@gmail.com"
+#      url: "mailto:meamitkc@gmail.com" 
 #    - label: "Feed"
 #      icon: "fab fa-fw fa-globe"
 #      url: "/feed.xml"
