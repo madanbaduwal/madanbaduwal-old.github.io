@@ -127,6 +127,26 @@ defaults:
     values:
       image: true
 
+# Collections
+collections:
+  dl:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  ml:
+    output: true
+    permalink: /:collection/:path/
+  st:
+    output: true
+    permalink: /:collection/:path/
+  bigdata:
+    output: true
+    permalink: /:collection/:path/
+  tuto:
+    output: true
+    permalink: /:collection/:path/
 
 category_archive:
   type: liquid
