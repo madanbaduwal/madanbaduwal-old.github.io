@@ -11,6 +11,8 @@ excerpt: Covid-19 Detection from Lung X-rays images.
 header:
   og_image: /images/1.Covid-19_Detection_from_Lung_X_rays_images.png
   teaser: /images/1.Covid-19_Detection_from_Lung_X_rays_images.png
+sidebar:
+    nav: sidebar-sample
 ---
 In this assignment, we will learn how to create an ML model for Covid-19 Lung X-rays images in google drive. Our task here will be a binary
 covid-19 Lung image classification of kaggle datasets.
