@@ -4,7 +4,7 @@ title: "Covid-19 Detection"
 layout: single
 author_profile: true
 read_time: true
-categories: [project]
+categories: [Projects]
 header:
   og_image: /images/1.Covid-19_Detection_from_Lung_X_rays_images.png
   teaser: /images/1.Covid-19_Detection_from_Lung_X_rays_images.png
