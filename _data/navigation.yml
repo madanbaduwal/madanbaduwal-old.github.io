@@ -3,11 +3,12 @@ main:
     url: /posts/
   - title: "Post collections"
     url: /postcollections/
-  - title: "About"
-    url: /about/
-  - title: "Publications"
-    url: /publications/
   - title: "Projects"
     url: /portfolio/
+  - title: "Publications"
+    url: /publications/
+  - title: "About"
+    url: /about/
+  
 
 # Create link
