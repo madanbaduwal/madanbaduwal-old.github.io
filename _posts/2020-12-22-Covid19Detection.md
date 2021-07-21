@@ -5,6 +5,7 @@ layout: single
 author_profile: true
 read_time: true
 categories: [Projects]
+excerpt : Computer vision system which detects whether a person is corona positive or negative from a chest X-ray image.
 header:
   og_image: /images/1.Covid-19_Detection_from_Lung_X_rays_images.png
   teaser: /images/1.Covid-19_Detection_from_Lung_X_rays_images.png
