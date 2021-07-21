@@ -9,8 +9,8 @@ classes: wide
 excerpt: Different type of python functions. 
 
 header:
-  og_image: /images/https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2018/01/Python-Functions.jpg
-  teaser: /images/https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2018/01/Python-Functions.jpg
+  og_image: /Python-Functions.jpg
+  teaser: /Python-Functions.jpg
 ---
 
 In this lessons, we'll learn about the basics of Python function. 
