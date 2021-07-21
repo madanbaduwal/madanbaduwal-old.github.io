@@ -15,10 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Madan Baduwal
 email: madanbaduwal100@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  I am a Mathematic Enthusiastic and AI explorer.
-  I explore artificial intelligence concepts through image,video and animation.
-url: "https://madanbaduwal.com.np"
+description:"mathematics,python,machine learning, and data Science Blog"
+url: "https://madanbaduwal.github.io"
 twitter_username: MadanBaduwal1
 github_username: MadanBaduwal
 stackoverflow_username: madan-baduwal
