@@ -47,7 +47,12 @@ og_image: /images/default_post_image.jpg
 
 include:
   - _pages
-
+  
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+    
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
