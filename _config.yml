@@ -40,8 +40,8 @@ timezone: Asia/Kathmandu
 
 teaser: /images/default_post_image.jpg
 
-header:
-  teaser: /images/default_post_image.jpg
+# header:
+#   teaser: /images/default_post_image.jpg
 
 og_image: /images/default_post_image.jpg
 
