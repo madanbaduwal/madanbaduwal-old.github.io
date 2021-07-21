@@ -6,6 +6,7 @@ categories:
   - Python
 permalink: /Pythonfunctions/
 classes: wide
+excerpt : Learn all about the python functions. From basic what is function to advance decorator and generator.
 header:
   og_image: /images/Python-Functions.jpg
   teaser: /images/Python-Functions.jpg
