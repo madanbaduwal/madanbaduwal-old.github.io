@@ -9,8 +9,8 @@ classes: wide
 excerpt: Different type of python functions. 
 
 header:
-  og_image: /Python-Functions.jpg
-  teaser: /Python-Functions.jpg
+  og_image: /images/Python-Functions.jpg
+  teaser: /images/Python-Functions.jpg
 ---
 
 In this lessons, we'll learn about the basics of Python function. 
