@@ -6,8 +6,6 @@ categories:
   - Python
 permalink: /Pythonfunctions/
 classes: wide
-excerpt: Different type of python functions. 
-
 header:
   og_image: /images/Python-Functions.jpg
   teaser: /images/Python-Functions.jpg
