@@ -123,7 +123,7 @@ Yadi post haru lekhnu x vanya post ma lekhni.
 Page vs post
 * page ma classes: wide vanyara hunxa 
 * post ma layout : categories,posts  vanyara hunxa.
-# Note if page and post configuration properly set vayo vanya thyakka mathi bar ma yellow point dekhinxa github action pass vanyara.
+# Note if page, post,.yml, or j ni git ma properly configuration vayo vanya thyakka mathi bar ma yellow point dekhinxa github action pass vanyara.
 ![image](https://github.com/MadanBaduwal/MadanBaduwal.github.io/blob/main/images/info.png)
 
 # Creating a collections ( project / talks / session ... haruko collection banauna ko lagi)
