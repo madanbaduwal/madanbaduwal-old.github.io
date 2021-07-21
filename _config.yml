@@ -147,7 +147,7 @@ comments:
     issue_term: "pathname"
 repository: "MadanBaduwal/MadanBaduwal.github.io"
 
-google-site-verification: "7PTmUxxTjmF3fgdhOmPbB5uNjkzCLD5vhItBRnJJSZY"  # get from google search console
+google-site-verification: "IJp8H4tiLG6JrdV5YHwr4Q1XS9VeHvoFZ_VrP5vNxb8"  # get from google search console
 
 social:
   type:  Person
@@ -159,7 +159,8 @@ social:
     - "https://stackoverflow.com/users/13783264"
 
 google:
-  search_engine_id: 7e12f10ae75868958
+  search_engine_id: f40dfec50840f5334
+  
 analytics:
   provider: "google-gtag"
   google:
