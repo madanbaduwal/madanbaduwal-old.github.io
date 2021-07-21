@@ -160,5 +160,6 @@ jupytext --to markdown Pythonfunctions.ipynb
 
 
 # Reference
-* https://github.com/maelfabien/maelfabien.github.io
+* [maelfabien](https://github.com/maelfabien/maelfabien.github.io)
 * [mmistakes](https://mmistakes.github.io/minimal-mistakes)
+* [amitness](https://github.com/amitness/amitness.github.io)
