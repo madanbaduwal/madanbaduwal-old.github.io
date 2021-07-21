@@ -9,6 +9,9 @@ permalink: /AI Projects/
 permalink: /Image-classification-in-keras/
 classes: wide
 excerpt: Image classification in keras. 
+header:
+  og_image: /images/image-classification..png
+  teaser: /images/image-classification..png
 ---
 
 Introduction
