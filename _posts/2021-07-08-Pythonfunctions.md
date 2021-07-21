@@ -11,9 +11,7 @@ header:
   teaser: /images/Python-Functions.jpg
 ---
 
-In this lessons, we'll learn about the basics of Python function. 
-
-A function is a sequence of statements that performs some kind of task. We use functions to eliminate code duplication.
+In this lessons, we'll learn about the basics of Python function. A function is a sequence of statements that performs some kind of task. We use functions to eliminate code duplication.
 
 We will learn different types of function in these lessons as shown figure below:
 
