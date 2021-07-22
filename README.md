@@ -96,23 +96,36 @@ Yadi post haru lekhnu x vanya post ma lekhni.
 
 
 ----------------------------------------------------------------
+Note : website lai akchoti search engine ma verify garayo vanya pugxa.
 
-# Google Custom Search Engine (follow [minimal mistake](https://mmistakes.github.io/minimal-mistakes/docs/configuration/))
+# Google Custom Search Engine 
+*  follow [minimal mistake](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
  *  Create a New search engine in [Google Custom Search Engine](https://cse.google.com/cse/all) tya bata ako cx="YOUR_SEARCH_ENGINE_ID" lai ```__config.yml ``` ko google: search_engine_id: YOUR_SEARCH_ENGINE_ID  ma past gardeni.
  ---------------------------------------------------------------
  
-# SEO, social sharing, and analytics settings 
+# SEO, and analytics settings 
 
 **Note : different search engine ma afno site verify garnuparni ani tyo search tool le afai khojxa , there are lots of search engine tool**
 
-## [Google Search Console](https://search.google.com/)(google search engine ma visiable  banauna , google search console ma verify garaunu parxa)
+## SEO( talko searching tool use garni)
+
+### [Google Search Console](https://search.google.com/)
+* 1-day, 2-day jati time lagxa verify huna
+* google search engine ma visiable  banauna , google search console ma verify garaunu parxa/ yadi google analytics ma verify garisakeko x vanya yasma garnu pardaina
 * Formerly known as Google Webmaster Tools, add your verification code in ```___config.yml``` like so: google_site_verification: "yourVerificationCode"
 
-## [Bing Webmaster Tools](https://www.bing.com/webmasters/help/add-and-verify-site-12184f8b?tid=ef68211b-35d5-438b-985b-27519fb3ce32#) ( Bing ma website visiable banauna yo chai)
+### [Bing Webmaster Tools](https://www.bing.com/webmasters/help/add-and-verify-site-12184f8b?tid=ef68211b-35d5-438b-985b-27519fb3ce32#) 
+* Bing ma website visiable banauna yo chai(google search console jastai arko tool ho yo)
 * Bing webmaster tools ma site add garni [2 tarika xan](https://www.bing.com/webmasters/home) , akchoti google console ma add garisakyasi tya verify vaisakeko x vanya bing ma google search console ko help le site lai bing webmaster tools ma add garna sakinxa 
 * or manully ni add garna sakixa
 
 Note : There  are lots of search engine tool ok.
+
+## analytics settings (website ma kati traffic ayo sabai herna milxa ..)
+
+* [	Google Standard Analytics](https://marketingplatform.google.com/about/analytics/)
+
+
 ---------------------------------------------------------------
 # For custome domain 
 If you have a custome domain(eg: madan.com) you can config your DNA to github as shown below.
