@@ -3,6 +3,7 @@ published: true
 title: "Covid-19 Detection"
 layout: single
 author_profile: true
+permalink : /covid19detection/
 read_time: true
 categories: [Projects]
 excerpt : Computer vision system which detects whether a person is corona positive or negative from a chest X-ray image.
