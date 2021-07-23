@@ -4,7 +4,7 @@ date: 2021-07-08T00:00-00:00
 last_modified_at: 2021-07-08T00:00:00-00:00
 categories:
   - Python
-permalink: /Pythonfunctions/
+permalink: /pythonfunctions/
 classes: wide
 excerpt : Learn all about the python functions. From basic what is function to advance decorator and generator.
 header:
