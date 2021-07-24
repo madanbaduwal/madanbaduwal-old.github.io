@@ -151,7 +151,7 @@ Note 📝 : .np domain have no option CNAME so we use cloudflare
 
 * look your Primary name server and Secondary name server from cloudfair
 
-Note 📝 : Primary name server and Secondary name server are different for all users so try to copy other , look in your cloudfair account.
+Note 📝 : Primary name server and Secondary name server are different for all users so don't copy other , look in your cloudfair account.
 
 
 ### 2. Go to the register.com.np
