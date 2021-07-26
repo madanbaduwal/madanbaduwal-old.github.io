@@ -70,7 +70,7 @@ plugins:
 author:
   name   : "Madan Baduwal"
   avatar : "/images/my-image.jpg"
-  bio    : "Machine Learning Engineer|NLP|Perception(computer vision)|Motion and manipulation(robotics)|Social intelligence |General intelligence"
+  bio    : "Machine Learning Engineer,NLP,Perception(computer vision),Motion and manipulation(robotics),Social intelligence ,General intelligence"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
