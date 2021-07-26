@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Madan Baduwal
 email: madanbaduwal100@gmail.com
-description:  "mathematics,python,machine learning, and data Science"
+description:  "Machine Learning Engineer|NLP|Perception(computer vision)|Motion and manipulation(robotics)|Social intelligence |General intelligence"
 url: "https://madanbaduwal.github.io"
 twitter_username: MadanBaduwal1
 github_username: MadanBaduwal
@@ -70,7 +70,7 @@ plugins:
 author:
   name   : "Madan Baduwal"
   avatar : "/images/my-image.jpg"
-  bio    : "Mathematic Enthusiastic and AI explorer"
+  bio    : "Machine Learning Engineer|NLP|Perception(computer vision)|Motion and manipulation(robotics)|Social intelligence |General intelligence"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
