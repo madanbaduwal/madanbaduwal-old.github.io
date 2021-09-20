@@ -6,7 +6,7 @@ excerpt: Learn about me, who iam and what I do.
 ---
 **Resume**
 
-📃 You can find my [Resume](https://drive.google.com/file/d/1S5wtdWJVmrDb2f_YPwLhAYNYr3E2f3cJ/view?usp=sharing) here.
+📃 You can find my [Resume](https://drive.google.com/file/d/1eB2hVqamVEmVAtU7e8rZZ1kkJBvWjdiT/view?usp=sharing) here.
 
 
 Even I don't know who I am till now. But from western society of Nepal to getting scholarship at Tribhuvan University to being depressed and suicide attempt to being a machine learning engineer currently at Fusemachines, life has been amazing.
