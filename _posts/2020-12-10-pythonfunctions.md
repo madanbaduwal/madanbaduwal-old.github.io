@@ -1,6 +1,6 @@
 ---
 title: "Python functions"
-date: 2020-01-10T00:00-00:00
+date: 2020-12-10T00:00-00:00
 last_modified_at: 2021-07-08T00:00:00-00:00
 categories:
   - Python
