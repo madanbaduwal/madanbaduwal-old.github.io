@@ -24,6 +24,6 @@ Here finally I had launched my first game in the play store name AntiGravity Bal
 
 <br>
 
-Download app from here : <a href="https://apkpure.com/antigravity-ball/com.madan.madan" class="btn btn--success">Download</a>
+**Download app from here :** <a href="https://apkpure.com/antigravity-ball/com.madan.madan" class="btn btn--success">Download</a>
 
 
