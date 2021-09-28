@@ -8,7 +8,7 @@ author_profile: true
 read_time: true
 permalink : /Beat Creator/
 categories: [Projects]
-excerpt :🎶 Beat Creator is just an android app to create a beat for music.
+excerpt : 🎶 Beat Creator is just an android app to create a beat for music.
 header :
     og_image : "https://raw.githubusercontent.com/MadanBaduwal/MadanBaduwal.github.io/main/images/5.BeatCreatorgit.jpg"
     teaser: "https://raw.githubusercontent.com/MadanBaduwal/MadanBaduwal.github.io/main/images/5.BeatCreatorgit.jpg"
