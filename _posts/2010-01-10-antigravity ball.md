@@ -8,7 +8,7 @@ author_profile: true
 read_time: true
 permalink : /AntiGravity Ball/
 categories: [Projects]
-excerpt : 🎮⚾ AntiGravity Ball is just a 2D game made in Unity. Your target is to try to pull the ball downward to get more scores.
+excerpt : 🎮⚾ AntiGravity Ball is just a 2D android game. Your target is to try to pull the ball downward to get more scores.
 header :
     og_image : "https://raw.githubusercontent.com/MadanBaduwal/MadanBaduwal.github.io/main/images/3.AntiGravity%20Ball.jpg"
     teaser: "https://raw.githubusercontent.com/MadanBaduwal/MadanBaduwal.github.io/main/images/3.AntiGravity%20Ball.jpg"
