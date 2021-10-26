@@ -81,6 +81,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/madan-baduwal-a688bb186/"
+    - label: "Youtube"
+      icon: "fab fa-youtube-in"
+      url: "https://www.youtube.com/channel/UCnJhPtjZJHtSvYgviEBJImA"
    
     # - label: "Subscribe"
     #   icon: "fas fa-fw fa-envelope"
