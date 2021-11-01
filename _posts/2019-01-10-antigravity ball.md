@@ -17,8 +17,11 @@ sidebar:
     nav: sidebar-sample
 ---
 
-When I was a child, I am curious about game development.
-Here finally I had launched my first game in the play store name AntiGravity Ball.AntiGravity Ball is just a 2D game made in Unity. Your target is to try to pull the ball downward to get more scores.
+AstroidSmash is a 2D game. The inspiration behind the game is sir Issac Netwon after coined gravity. What happens if there is no gravity? This game is based on this concept.
+
+The player is a ball that is not affected by gravity. Our target is to pull the ball downward. We can pull the boll downward by tapping on the screen.
+
+Different obstacles appear in a way. We need to maintain gravity so that we didn't collide with an obstacle.
 
 <iframe width="700" height="500" src="https://www.youtube.com/embed/Bo6NMnqotOA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
