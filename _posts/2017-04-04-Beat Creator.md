@@ -18,7 +18,9 @@ sidebar:
 ---
 
 "When word fail music speaks"
-The beat creator is a music generator app in android,  In which you can generate your music from the beats. 
+The beat creator is a music generator app in android,  In which you can generate your music from the beats.
+
+The current version of Beat Creator contains 3 instrument beats: Drum, Guitar, Piano, and combined three. Beats are slightly lengthy, we can improve in the next version. 
 
 <iframe width="700" height="500" src="https://www.youtube.com/embed/ouwQVbks7wM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
