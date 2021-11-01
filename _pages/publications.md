@@ -2,7 +2,7 @@
 layout: archive
 permalink: /publications/
 author_profile: true
-title: "Papers and submissions"
+title: "Papers"
 ---
 
 ## Research
