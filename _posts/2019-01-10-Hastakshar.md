@@ -8,7 +8,7 @@ author_profile: true
 read_time: true
 permalink : /Hastakshar/
 categories: [Projects]
-excerpt : 📝 Signature verification system using  CNN.
+excerpt : 📝 Signature verification system presents an investigation of using Convolution Neural Network(CNN) for Writer-Dependent models in signature verification.
 header :
     og_image : "https://raw.githubusercontent.com/MadanBaduwal/MadanBaduwal.github.io/main/images/hastakshar.PNG"
     teaser: "https://raw.githubusercontent.com/MadanBaduwal/MadanBaduwal.github.io/main/images/hastakshar.PNG"
