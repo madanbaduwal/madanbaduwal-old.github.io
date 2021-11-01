@@ -19,7 +19,8 @@ sidebar:
 
 AstroidSmash is a 2D game made in Unity game engine. The idea behind the game is Universe. In-universe we need to save our planet from a supernova, another asteroid, and an alien ship.
  
-Central Astroid is our asteroid. We need to increase our asteroid size by colliding the same color astroid with our asteroid. We can swap other (besides our asteroid) asteroids at once to increase our asteroid and remove other color asteroids away from our asteroid. We can increase the force and spawn rate from the setting.
+Central Astroid is our asteroid. We need to increase our asteroid size by colliding the same color astroid with our asteroid. We can swap other (besides our asteroid) asteroids at once to increase our asteroid and remove other color asteroids away from our asteroid. We can increase the force and spawn rate from the setting.The game implements Reinforcement Learning on alien ship (enemy) that shoots to destroy our asteroid as well as keep itself
+protected.
 
 The stress meter provides stress in our asteroid. At the initial state, we have provided 98 shields to protect our asteroid and another 98 life to increase the size of our asteroid.
 
