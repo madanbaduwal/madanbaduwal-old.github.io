@@ -27,6 +27,6 @@ The stress meter provides stress in our asteroid. At the initial state, we have 
 
 <br>
 
-**Download app from here :** <a href="https://apkpure.com/antigravity-ball/com.madan.madan" class="btn btn--success">Download</a>
+**Download app from here :** <a href="https://drive.google.com/file/d/1bKXiCgcp6sbDpM1nbGj7XEGBrHlQKJmU/view?usp=sharing" class="btn btn--success">Download</a>
 
 
