@@ -24,18 +24,17 @@ I do research in the field of AI and apply it to solve the real life problems at
 **Interest Areas**  
 I'm interested in the research of any field related to artificial intelligence.
 
-**How I am think?**
+**How I think?**
 
 I am always thinking about the perspective of the human being because the human being is the smartest animal on the earth.
 
-My life's ultimate goal is to try to create a copy of a human being that support human being to make human life better.
-
-I start thinking from the top view of humans and create some analogy, 
+I start thinking from the top view of human and create some analogy, 
 * Brain: ALU(hardware) + machine learning(software). 
 * Eyes: Camera(hardware) + brain(ALU(hardware) + machine learning(software))
 * Mouth/Ear: Speaker/Receiver(hardware) + brain(ALU(hardware) + machine learning(software))
 * Hand/Leg: robotics components + brain(ALU(hardware) + machine learning(software))
 
 In the above analogy, we found that the brain is the most important part of human beings, that is why I am working on the analogy of the brain: Machine learning.
+My life's ultimate goal is to try to create a copy of a human being that support human being to make human life better.
 
-While iam working on that i never forget about Mathematics, Physics, Chemistry, Biology, and Engineering.
+While I am working on that I never forget about Mathematics, Physics, Chemistry, Biology, and Engineering.
