@@ -69,7 +69,7 @@ plugins:
 
 author:
   name   : "Madan Baduwal"
-  avatar : "/images/my-image.jpg"
+  avatar : "/images/my-image.png"
   bio    : "Machine Learning Engineer"
   links:
     - label: "GitHub"
