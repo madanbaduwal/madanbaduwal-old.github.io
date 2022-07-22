@@ -6,7 +6,7 @@ excerpt: Learn about me, who iam and what I do.
 ---
 **Resume**
 
-📃 You can download a PDF copy of my CV [here].(https://drive.google.com/file/d/1a20srnBPEXdMic148lRYL2j6VwIg_88H/view?usp=sharing) here.
+📃 You can download a PDF copy of my CV [here](https://drive.google.com/file/d/1a20srnBPEXdMic148lRYL2j6VwIg_88H/view?usp=sharing).
 
 <iframe src="/assets/Documents/Madan_CV.pdf
 " width="100%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
