@@ -8,6 +8,13 @@ excerpt: Learn about me, who iam and what I do.
 
 📃 You can find my [Resume](https://drive.google.com/file/d/1a20srnBPEXdMic148lRYL2j6VwIg_88H/view?usp=sharing) here.
 
+{% include base_path %}
+
+You can download a PDF copy of my CV here.
+
+<iframe src="/assets/Documents/Madan_CV.pdf
+" width="100%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
 
 Even I don't know who I am till now. But from western society of Nepal to getting scholarship at Tribhuvan University to being depressed and suicide attempt to being a machine learning engineer currently at Fusemachines, life has been amazing.
 
