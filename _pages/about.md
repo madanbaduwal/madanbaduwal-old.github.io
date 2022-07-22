@@ -6,14 +6,12 @@ excerpt: Learn about me, who iam and what I do.
 ---
 **Resume**
 
-📃 You can find my [Resume](https://drive.google.com/file/d/1a20srnBPEXdMic148lRYL2j6VwIg_88H/view?usp=sharing) here.
-
-
-You can download a PDF copy of my CV here.
+📃 You can download a PDF copy of my CV [here].(https://drive.google.com/file/d/1a20srnBPEXdMic148lRYL2j6VwIg_88H/view?usp=sharing) here.
 
 <iframe src="/assets/Documents/Madan_CV.pdf
 " width="100%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
+**Thinking**
 
 Even I don't know who I am till now. But from western society of Nepal to getting scholarship at Tribhuvan University to being depressed and suicide attempt to being a machine learning engineer currently at Fusemachines, life has been amazing.
 
