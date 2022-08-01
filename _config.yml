@@ -16,7 +16,7 @@
 title: Madan Baduwal
 email: madanbaduwal100@gmail.com
 description:  "Machine Learning Engineer|NLP|Perception(computer vision)|Motion and manipulation(robotics)|Social intelligence |General intelligence"
-url: "https://madanbaduwal.github.io"
+url: "https://madanbaduwal.github.io/portfolio/"
 twitter_username: MadanBaduwal1
 github_username: MadanBaduwal
 stackoverflow_username: madan-baduwal
@@ -109,10 +109,10 @@ footer:
       url: "https://github.com/MadanBaduwal"
 
 defaults:
-  # _portfolio
+  # _posts
   - scope:
       path: ""
-      type: portfolio
+      type: posts
     values:
       layout: single
       author_profile: true
