@@ -109,10 +109,10 @@ footer:
       url: "https://github.com/MadanBaduwal"
 
 defaults:
-  # _posts
+  # _portfolio
   - scope:
       path: ""
-      type: posts
+      type: portfolio
     values:
       layout: single
       author_profile: true
