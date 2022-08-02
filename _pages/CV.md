@@ -1,10 +1,11 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /CV/
+title: "CV"
 classes: wide
 excerpt: Learn about me, who iam and what I do. 
 ---
-**Resume**
+
+**CV**
 
 📃 You can download a PDF copy of my CV [here](https://drive.google.com/file/d/1a20srnBPEXdMic148lRYL2j6VwIg_88H/view?usp=sharing).
 

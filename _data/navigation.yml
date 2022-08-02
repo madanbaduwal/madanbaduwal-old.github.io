@@ -7,8 +7,8 @@ main:
     url: /projects/
   - title: "Publications"
     url: /publications/
-  - title: "About"
-    url: /about/
+  - title: "CV"
+    url: /CV/
   
 
 # Create link
