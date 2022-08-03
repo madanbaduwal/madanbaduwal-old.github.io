@@ -2,11 +2,10 @@
 layout: archive
 permalink: /publications/
 author_profile: true
-title: "Papers"
+title: "Research"
 ---
 
-## Research
-My research focuses on machine learning, computer vision, natural language processing, and robotics. I explore the various ways to leverage human behavior through computer science technology. I am more broadly interested in applied ML, and applications of ML to mimic human behavior.
+My research focuses on  computer vision, machine learning, robotics, Medical Imaging. I explore the various ways to leverage human behavior through computer science technology. I am more broadly interested in applied ML, and applications of ML to mimic human behavior.
 
 ## Publications
 ----------------
