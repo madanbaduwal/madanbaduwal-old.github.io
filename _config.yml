@@ -87,6 +87,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/MadanBaduwal1"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0003-3389-1586"
 
    
     # - label: "Subscribe"
