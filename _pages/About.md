@@ -1,9 +1,16 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 classes: wide
-excerpt: Learn about me, who iam and what I do. 
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 
 I am madan baduwal from Nepal.
+
+
+
