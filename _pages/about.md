@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-I am a computer vision researcher, but I also work on (deep) machine learning, vision robotic, and medical imaging. I earned a BE in Computer Engineering at Tribhuvan University , under the direction of [Sanjeev Prasad Panday](https://scholar.google.com/citations?user=oTWWLT8AAAAJ&hl=en). If you are interested in discussing research, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/madan-baduwal-a688bb186/), [Facebook](https://www.facebook.com/www.madan.baduwal.1), or [Twitter](https://twitter.com/MadanBaduwal1). You can also send me an email: 'madanbaduwal100@gmail.com'.
+I am a computer vision researcher, but I also work on (deep) machine learning, vision robotics, and medical imaging. I earned a BE in Computer Engineering at Tribhuvan University , under the direction of [Sanjeev Prasad Panday](https://scholar.google.com/citations?user=oTWWLT8AAAAJ&hl=en). If you are interested in discussing research, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/madan-baduwal-a688bb186/), [Facebook](https://www.facebook.com/www.madan.baduwal.1), or [Twitter](https://twitter.com/MadanBaduwal1). You can also send me an email: 'madanbaduwal100@gmail.com'.
 
 I have a few different roles:
 
