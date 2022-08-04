@@ -14,7 +14,7 @@ I am a computer vision researcher, but I also work on (deep) machine learning, v
 
 I have a few different roles:
 
-* Sr.Software Engineer,BP Eye Foundation(Ongoing)
+* Sr.Computer Vision & Software Engineer,BP Eye Foundation(Ongoing)
 * Machine Learning Engineer , Machine Learning Engineer(Feb 2020 – Feb 2022)
 * Computer Vision Engineer(R and D),National Innovation Center  (Jan 2021 – Sep 2021)
 * Software Engineer, Omnibluetech(Aug 2019 — Feb 2020)
