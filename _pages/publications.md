@@ -5,7 +5,7 @@ author_profile: true
 title: "Research"
 ---
 
-My research focuses on  computer vision, machine learning, robotics, Medical Imaging. I explore the various ways to leverage human behavior through computer science technology. I am more broadly interested in Computer Vision and applied (DL)ML.
+My research focuses on  computer vision, machine learning, vision robotics, Medical Imaging. I explore the various ways to leverage human behavior through computer science technology. I am more broadly interested in Computer Vision and applied (DL)ML.
 
 ## Publications
 ----------------
