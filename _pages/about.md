@@ -8,8 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-============================
-
+------------
 I am a computer vision researcher, but I also work on (deep) machine learning, vision robotics, and medical imaging. I earned a BE in Computer Engineering at Tribhuvan University , under the direction of [Sanjeev Prasad Panday](https://scholar.google.com/citations?user=oTWWLT8AAAAJ&hl=en). If you are interested in discussing research, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/madan-baduwal-a688bb186/), [Facebook](https://www.facebook.com/www.madan.baduwal.1), or [Twitter](https://twitter.com/MadanBaduwal1). You can also send me an email: 'madanbaduwal100@gmail.com'.
 
 I have a few different roles:
@@ -20,15 +19,13 @@ I have a few different roles:
 * Software Engineer, Omnibluetech(INT)(Aug 2019 — Feb 2020)
 
 # Research 
-=============================
-
+------------
 I am excited about using computer vision and machine learning techniques to understand the world. I have focused on a variety of problems, including image classification,Object Localization,Object detection,Image segmentation,Object identification,Action Classification,Pose Estimation,OCR,2D code reading,Object tracking,Optical Flow,Egomotion,Reconstruction,Streo Vision, medical imaging, and video surveillance. You can learn more by visiting my [Github](https://github.com/MadanBaduwal), [Youtube](https://www.youtube.com/channel/UCnJhPtjZJHtSvYgviEBJImA), or checking out my [CV](https://madanbaduwal.github.io/cv/).
 
   Research Pages : [Google Scholor](https://scholar.google.com/citations?user=mIEdm2IAAAAJ&hl=en)
 
 # News
-=============================
-
+------------
 8/2022 Start Implementing [Computer Vision Related Algorithms](https://madanbaduwal.github.io/cv-algorithms/)
 
 8/2022 Start Searching and Listing [Computer Vision Researchers](https://madanbaduwal.github.io/people-in-computer-vision/) 
@@ -37,16 +34,14 @@ I am excited about using computer vision and machine learning techniques to unde
 
 
 # Community Services
-=============================
-
+------------
 * [Computer Vision Datasets](https://madanbaduwal.github.io/computer-vision-datasets)
 * [Computer Vision Algorithms](https://madanbaduwal.github.io/cv-algorithms/)
 * [Computer Vision Researchers](https://madanbaduwal.github.io/people-in-computer-vision/) 
 
 
 # Publications
-=============================
-
+------------
 <table style="border: none; border-collapse: collapse;" border="0">
 
 <tr style="border-collapse: separate; border-spacing:30em;">
