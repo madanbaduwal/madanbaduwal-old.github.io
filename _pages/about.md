@@ -21,7 +21,7 @@ I have a few different roles:
 
 # Research 
 
-I am excited about using computer vision and machine learning techniques to understand the world. I have focused on a variety of problems, including image classification,Object Localization,Object detection,Image segmentation,Object identification,Action Classification,Pose Estimation,OCR,2D code reading,Object tracking,Optical Flow,Egomotion,Reconstruction,Streo Vision, medical imaging, and video surveillance. You can learn more by visiting my [Github](https://github.com/MadanBaduwal), [Youtube](https://www.youtube.com/channel/UCnJhPtjZJHtSvYgviEBJImA), or checking out my [CV](https://madanbaduwal.github.io/CV/).
+I am excited about using computer vision and machine learning techniques to understand the world. I have focused on a variety of problems, including image classification,Object Localization,Object detection,Image segmentation,Object identification,Action Classification,Pose Estimation,OCR,2D code reading,Object tracking,Optical Flow,Egomotion,Reconstruction,Streo Vision, medical imaging, and video surveillance. You can learn more by visiting my [Github](https://github.com/MadanBaduwal), [Youtube](https://www.youtube.com/channel/UCnJhPtjZJHtSvYgviEBJImA), or checking out my [CV](https://madanbaduwal.github.io/cv/).
 
   Research Pages : [Google Scholor](https://scholar.google.com/citations?user=mIEdm2IAAAAJ&hl=en)
 
