@@ -33,13 +33,13 @@ I am excited about using computer vision and machine learning techniques to unde
 
 8/2022 Start Searching and Listing [Computer Vision Researchers](https://madanbaduwal.github.io/people-in-computer-vision/) 
 
-7/2022 Start Working on [Computer vision Datasets Collection](https://github.com/MadanBaduwal/computer-vision-datasets)
+7/2022 Start Working on [Computer vision Datasets Collection](https://madanbaduwal.github.io/computer-vision-datasets)
 
 
 # Community Services
 =============================
 
-* [Computer Vision Datasets](https://github.com/MadanBaduwal/computer-vision-datasets)
+* [Computer Vision Datasets](https://madanbaduwal.github.io/computer-vision-datasets)
 * [Computer Vision Algorithms](https://madanbaduwal.github.io/cv-algorithms/)
 * [Computer Vision Researchers](https://madanbaduwal.github.io/people-in-computer-vision/) 
 
