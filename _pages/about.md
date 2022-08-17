@@ -26,9 +26,12 @@ I am excited about using computer vision and machine learning techniques to unde
 
 # News
 ------------
-8/2022 Start Implementing [Computer Vision Related Algorithms](https://madanbaduwal.github.io/cv-algorithms/)
+08/17/2022 Start Collecting read [computer vision resources](https://madanbaduwal.github.io/computer-vision-resources/)
 
 8/2022 Start Searching and Listing [Computer Vision Researchers](https://madanbaduwal.github.io/people-in-computer-vision/) 
+
+8/2022 Start Implementing [Computer Vision Related Algorithms](https://madanbaduwal.github.io/cv-algorithms/)
+
 
 7/2022 Start Working on [Computer vision Datasets Collection](https://madanbaduwal.github.io/computer-vision-datasets)
 
