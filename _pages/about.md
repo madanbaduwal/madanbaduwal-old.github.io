@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 ------------
-I am a computer vision researcher, but I also work on (deep) machine learning, vision robotics, and medical imaging. I earned a BE in Computer Engineering at Tribhuvan University , under the direction of [Sanjeev Prasad Panday](https://scholar.google.com/citations?user=oTWWLT8AAAAJ&hl=en). If you are interested in discussing research, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/madan-baduwal-a688bb186/), [Facebook](https://www.facebook.com/www.madan.baduwal.1), or [Twitter](https://twitter.com/MadanBaduwal1). You can also send me an email: 'madanbaduwal100@gmail.com'.
+My research interests lie in **Machine Learning**,**Computer Vision**,**Pattern Recognition**,**Natural Language Processing**,**Multi-Model** and **Multi-Task Deep Learning**, and **Cognitive Science** for **Embodied AI**.In particular I am interested in reverse-engineering the human mind to build embodied machines that can see,listen,speak,learn,and interact with human-level cognition and social intelligence. I earned a BE in Computer Engineering at Tribhuvan University , under the direction of [Sanjeev Prasad Panday](https://scholar.google.com/citations?user=oTWWLT8AAAAJ&hl=en). If you are interested in discussing research, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/madan-baduwal-a688bb186/), [Facebook](https://www.facebook.com/www.madan.baduwal.1), or [Twitter](https://twitter.com/MadanBaduwal1). You can also send me an email: 'madanbaduwal100@gmail.com'.
 
 I have a few different roles:
 
