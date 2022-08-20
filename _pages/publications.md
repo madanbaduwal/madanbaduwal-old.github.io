@@ -5,7 +5,7 @@ author_profile: true
 title: "Research"
 ---
 
-My research focuses on  computer vision, machine learning, vision robotics, Medical Imaging. I explore the various ways to leverage human behavior through computer science technology. I am more broadly interested in Computer Vision and applied (DL)ML.
+My research interests lie in **Machine Learning**,**Computer Vision**,**Pattern Recognition**,**Natural Language Processing**,**Multi-Model** and **Multi-Task Deep Learning**, and **Cognitive Science** for **Embodied AI**.In particular I am interested in reverse-engineering the human mind to build embodied machines that can see,listen,speak,learn,and interact with human-level cognition and social intelligence.
 
 ## Publications
 ----------------
