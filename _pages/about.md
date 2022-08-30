@@ -26,7 +26,7 @@ I am excited about using computer vision and machine learning techniques to unde
 
 # News
 ------------
-08/17/2022 Start Collecting read [computer vision resources](https://github.com/MadanBaduwal/learning)
+08/17/2022 Start Collecting [computer vision resources](https://github.com/MadanBaduwal/learning)
 
 8/2022 Start Collecting [Computer VisionProblems and Datasets](https://madanbaduwal.github.io/computer-vision-datasets)
 
