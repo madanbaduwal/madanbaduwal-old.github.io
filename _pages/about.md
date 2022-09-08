@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 ------------
-My research interests lie in **Machine Learning**,**Computer Vision**,**Pattern Recognition**,**Natural Language Processing**,**Multi-Model** and **Multi-Task Deep Learning**, and **Cognitive Science** for **Embodied AI**.In particular I am interested in reverse-engineering the human mind to build embodied machines that can see,listen,speak,learn,and interact with human-level cognition and social intelligence. I earned a BE in Computer Engineering at Tribhuvan University , under the direction of [Sanjeev Prasad Panday](https://scholar.google.com/citations?user=oTWWLT8AAAAJ&hl=en). If you are interested in discussing research, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/madan-baduwal-a688bb186/), [Facebook](https://www.facebook.com/www.madan.baduwal.1), or [Twitter](https://twitter.com/MadanBaduwal1). You can also send me an email: 'madanbaduwal100@gmail.com'.
+My research interests lie in **Machine Learning**,**Computer Vision**,**Pattern Recognition**,**Natural Language Processing**,**Multi-Model** and **Multi-Task Deep Learning**, and **Cognitive Science** for **Embodied AI**.In particular I am interested in reverse-engineering the human mind to build embodied machines that can see,listen,speak,learn,and interact with human-level cognition and social intelligence. I earned a BE in Computer Engineering at Tribhuvan University , under the direction of [Sanjeev Prasad Panday](https://scholar.google.com/citations?user=oTWWLT8AAAAJ&hl=en). If you are interested in discussing research, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/madan-baduwal-a688bb186/), or [Twitter](https://twitter.com/MadanBaduwal1). You can also send me an email: ```madanbaduwal100@gmail.com```.
 
 I have a few different roles:
 
@@ -26,7 +26,7 @@ I am excited about using computer vision and machine learning techniques to unde
 
 # News
 ------------
-08/17/2022 Start Collecting [computer vision resources](https://github.com/MadanBaduwal/learning)
+08/17/2022 Start [Life Long Learning](https://github.com/MadanBaduwal/learning)
 
 8/2022 Start Collecting [Computer VisionProblems and Datasets](https://madanbaduwal.github.io/computer-vision-datasets)
 
@@ -39,7 +39,7 @@ I am excited about using computer vision and machine learning techniques to unde
 
 # Community Services
 ------------
-* [Computer vision resources](https://github.com/MadanBaduwal/learning)
+* [Learning Resources](https://github.com/MadanBaduwal/learning)
 * [Computer VisionProblems and Datasets](https://madanbaduwal.github.io/computer-vision-datasets)
 * [Computer Vision Algorithms](https://madanbaduwal.github.io/cv-algorithms/)
 * [Computer Vision Researchers](https://madanbaduwal.github.io/people-in-computer-vision/) 
