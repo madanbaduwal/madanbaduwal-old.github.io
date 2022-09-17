@@ -13,8 +13,8 @@ My research interests lie in **Machine Learning**,**Computer Vision**,**Pattern 
 
 I have a few different roles:
 
-* Sr.Computer Vision & Software Engineer,BP Eye Foundation(Ongoing)
-* Machine Learning Engineer , Machine Learning Engineer(Feb 2020 – Feb 2022)
+* Sr.Machine Learning & Computer Vision Engineer,BP Eye Foundation(Ongoing)
+* Machine Learning Engineer , Fusemachines (Feb 2020 – Feb 2022)
 * Computer Vision Engineer(R and D),National Innovation Center  (Jan 2021 – Dec 2021)
 * Software Engineer, Omnibluetech(INT)(Aug 2019 — Feb 2020)
 
