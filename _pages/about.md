@@ -15,6 +15,7 @@ My research interests lie in **Machine Learning**,**Computer Vision**,**Pattern 
 I am lucky to have opportunities to work with [Mahabir Pun](https://en.wikipedia.org/wiki/Mahabir_Pun) , [Rabin Dhakal](https://rabindhakal.com/).I earned a BE in Computer Engineering at Tribhuvan University , under the direction of [Sanjeev Prasad Panday](https://scholar.google.com/citations?user=oTWWLT8AAAAJ&hl=en). If you are interested in discussing research, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/madan-baduwal-a688bb186/), or [Twitter](https://twitter.com/MadanBaduwal1). You can also send me an email: ```madanbaduwal100@gmail.com```.
 
 # Roles
+------------
 
 * Sr.Machine Learning & Computer Vision Engineer,BP Eye Foundation(Ongoing)
 * Machine Learning Engineer , Fusemachines (Feb 2020 – Feb 2022)
@@ -59,6 +60,7 @@ I am lucky to have opportunities to work with [Mahabir Pun](https://en.wikipedia
 </table>
 
 # Schedule Meeting
+------------
 
 <p>I am always looking to work with a beautiful mind.
 Free free to sign up below if you would like to chat with me on any topics.</p>
