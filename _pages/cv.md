@@ -1,4 +1,14 @@
 ---
+layout: archive
+title: ""
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /assets/Madan_CV.pdf
+---
+
+
+<!-- ---
 permalink: /cv/
 title: "Curriculum Vitae(CV)"
 classes: wide
@@ -10,3 +20,4 @@ excerpt: Learn about me, who iam and what I do.
 
 <iframe src="/assets/Documents/Madan_CV.pdf
 " width="100%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+ -->
