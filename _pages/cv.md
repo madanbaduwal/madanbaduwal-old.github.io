@@ -4,7 +4,7 @@ title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /assets/Madan_CV.pdf
+  - /assets/Baduwal_Madan_Resume.pdf
 ---
 
 
