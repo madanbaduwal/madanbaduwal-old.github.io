@@ -44,6 +44,8 @@ og_image: /images/default_post_image.jpg
 
 include:
   - _pages
+  - assets
+  
   
     
 # Exclude from processing.
