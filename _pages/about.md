@@ -9,10 +9,17 @@ redirect_from:
   - /about.html
 ---
 ------------
-My research interests lie in **Machine Learning**,**Computer Vision**,**Pattern Recognition**,**Multi-Model** and **Multi-Task Deep Learning**, and **Cognitive Science** for **Embodied AI**.In particular I am interested in reverse-engineering the human mind to build embodied machines that can see,listen,speak,learn,and interact with human-level cognition and social intelligence. You can learn more by visiting my [Github](https://github.com/MadanBaduwal),[Google Scholor](https://scholar.google.com/citations?user=mIEdm2IAAAAJ&hl=en), [Youtube](https://www.youtube.com/channel/UCnJhPtjZJHtSvYgviEBJImA), or checking out my [CV](https://madanbaduwal.github.io/assets/Documents/Baduwal_Madan_Resume.pdf).
+I earned a BE in Computer Engineering at Tribhuvan University , under the direction of [Sanjeev Prasad Panday](https://scholar.google.com/citations?user=oTWWLT8AAAAJ&hl=en).I am lucky to have opportunities to work with [Mahabir Pun](https://en.wikipedia.org/wiki/Mahabir_Pun) , [Rabin Dhakal](https://rabindhakal.com/). If you are interested in discussing research, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/madan-baduwal-a688bb186/), or [Twitter](https://twitter.com/MadanBaduwal1). You can also send me an email: ```madanbaduwal100@gmail.com```. You can learn more by visiting my [Github](https://github.com/MadanBaduwal),[Google Scholor](https://scholar.google.com/citations?user=mIEdm2IAAAAJ&hl=en), [Youtube](https://www.youtube.com/channel/UCnJhPtjZJHtSvYgviEBJImA), or checking out my [CV](https://madanbaduwal.github.io/assets/Documents/Baduwal_Madan_Resume.pdf).
 
 
-I am lucky to have opportunities to work with [Mahabir Pun](https://en.wikipedia.org/wiki/Mahabir_Pun) , [Rabin Dhakal](https://rabindhakal.com/).I earned a BE in Computer Engineering at Tribhuvan University , under the direction of [Sanjeev Prasad Panday](https://scholar.google.com/citations?user=oTWWLT8AAAAJ&hl=en). If you are interested in discussing research, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/madan-baduwal-a688bb186/), or [Twitter](https://twitter.com/MadanBaduwal1). You can also send me an email: ```madanbaduwal100@gmail.com```.
+# Research interests
+------------
+My research interests lie in **Machine Learning**,**Computer Vision**,**Pattern Recognition**,**Multi-Model** and **Multi-Task Deep Learning**, and **Cognitive Science** for **Embodied AI**.In particular I am interested in reverse-engineering the human mind to build embodied machines that can see,listen,speak,learn,and interact with human-level cognition and social intelligence. Specifically: 
+
+* [Computer vision problems(2D/3D)](https://madanbaduwal.github.io/computer-vision-problems-and-datasets):
+* [Learning paradigm](https://github.com/MadanBaduwal/learning-paradigms): 
+* [computer vision application](https://github.com/MadanBaduwal/computer_vision_applications): 
+
 
 # Roles
 ------------
