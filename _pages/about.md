@@ -14,11 +14,11 @@ I earned a BE in Computer Engineering at Tribhuvan University , under the direct
 
 # Research interests
 ------------
-My research interests lie in **Machine Learning**,**Computer Vision**,**Pattern Recognition**,**Multi-Model** and **Multi-Task Deep Learning**, and **Cognitive Science** for **Embodied AI**.In particular I am interested in reverse-engineering the human mind to build embodied machines that can see,listen,speak,learn,and interact with human-level cognition and social intelligence. Specifically: 
+My research interests lie in **Machine Learning**,**Computer Vision**,**Pattern Recognition**,**Multi-Model** and **Multi-Task Deep Learning**, and **Cognitive Science** for **Embodied AI**.In particular I am interested in reverse-engineering the human mind to build embodied machines that can see,listen,speak,learn,and interact with human-level cognition and social intelligence.
 
-* [Computer vision problems(2D/3D)](https://madanbaduwal.github.io/computer-vision-problems-and-datasets):
-* [Learning paradigm](https://github.com/MadanBaduwal/learning-paradigms): 
-* [computer vision application](https://github.com/MadanBaduwal/computer_vision_applications): 
+* [Computer vision tasks/problems/challenges(2D/3D)](https://madanbaduwal.github.io/computer-vision-problems-and-datasets)
+* [Learning paradigm](https://github.com/MadanBaduwal/learning-paradigms)
+* [computer vision application](https://github.com/MadanBaduwal/computer_vision_applications)
 
 
 # Roles
