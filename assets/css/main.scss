@@ -1,0 +1,159 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+// How to edit minimal mistakes style if you use github pages
+
+// To make basic tweaks to theme’s style Sass variables can be overridden by adding
+// to <your_project>/assets/css/main.scss. For instance, to change the link color
+// used throughout the theme add:
+
+// From: https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/
+
+// Color settings MUST happen before the @import step
+
+// Interesting links: 
+// * https://github.com/k-bosko/k-bosko.github.io/blob/master/_sass/minimal-mistakes/_variables.scss
+// * highlighting: https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/
+// * https://glitchbone.github.io/vscode-base16-term/#/tomorrow-night
+// * https://nithiya.gitlab.io/development/pages-tweaks/
+
+// github syntax highlighting (base16):
+// * https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/#colors
+// * https://github.com/Defman21/base16-github-scheme/blob/master/github.yaml
+// * http://chriskempson.com/projects/base16/
+// * https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/#colors
+// * https://mmistakes.github.io/minimal-mistakes/markup-syntax-highlighting/#gfm-code-blocks
+
+// Moritz Lange writes: 
+// You'll have to first set variables (like those in _variables.scss), then import
+// minimal mistakes, and finally write the html code.
+// The html part will set the default font size (i.e. the text font size within
+// your posts). The type-size variables on the other hand will set font size for
+// other elements like table of content etc., relative to the default size
+// specified in the html block. 
+
+// From: https://github.com/mmistakes/minimal-mistakes/discussions/1352#discussioncomment-2074482
+
+// Define colors 
+$brian-clicked-link: #265aeb;
+$brian-unclicked-link: #1e38af;
+$brian-creme: #fafafa;
+$white: #ffffff;
+$color-link-grey: #3E4245;
+
+// Post headers
+$link-color: $brian-unclicked-link;
+
+// Change background of website to creme. From: https://brianlovin.com/
+$background-color: $white; 
+
+/* type scale */
+$type-size-1: 2.441em !default;
+$type-size-2: 1.953em !default;
+$type-size-3: 1.563em !default;
+$type-size-4: 1.25em !default;
+$type-size-5: 1.1em !default;
+$type-size-5b: 0.9em !default;
+$type-size-6: 0.8em !default;
+$type-size-7: 0.8em !default;
+$type-size-8: 0.625em !default;
+
+// scheme: "One Light"
+// author: "Daniel Pfeifer (http://github.com/purpleKarrot)"
+// https://raw.githubusercontent.com/purpleKarrot/base16-one-light-scheme/master/one-light.yaml
+// https://twitter.com/Sirupsen/status/1478686662373044225
+// $base00: #fafafa;
+// $base01: #f0f0f1;
+// $base02: #e5e5e6;
+// $base03: #a0a1a7;
+// $base04: #696c77;
+// $base05: #383a42;
+// $base06: #202227;
+// $base07: #090a0b;
+// $base08: #ca1243;
+// $base09: #d75f00;
+// $base0A: #c18401;
+// $base0B: #50a14f;
+// $base0C: #0184bc;
+// $base0D: #4078f2;
+// $base0E: #a626a4;
+// $base0F: #986801;
+
+// !! ALL VARIABLE DECLARATIONS MUST BE BEFORE THIS STATEMENT !!
+@import "minimal-mistakes";
+
+// #container {
+//   float: left;
+//   margin: 0 -240px 0 0;
+//   width: 50%;
+// }
+
+// This changes the code box. Do you wonder how you can find this out yourself?
+// Use the inspect tool and look at which class you are selecting. This one
+// highlights pre.highlight and class=highlight! YES YES YES YES I FINALLY
+// FIGURED THIS OUT (2022-05-17) I feel so stupid that it took me so long but I
+// can finally style the code box, lol.
+.highlight {
+  margin: 0;
+  padding: 0.2em;
+  font-family: $monospace;
+  font-size: $type-size-5b;
+  line-height: 1.5;
+}
+
+
+// this used to work 
+// html {
+//   font-size: 16px; // change to whatever
+
+//   @include breakpoint($small){
+//     font-size: 16px; // change to whatever
+//   }
+
+//   @include breakpoint($medium) {
+//     font-size: 18px; // change to whatever
+//   }
+
+//   @include breakpoint($large) {
+//     font-size: 20px; // change to whatever
+//   }
+
+//   @include breakpoint($x-large) {
+//     font-size: 22px; // change to whatever
+//   }
+// }
+
+// .masthead__menu-item {
+//   color: #612424;
+// }
+
+// .masthead {
+//   background-color: #612424;
+// }
+
+// .masthead_inner-wrap {
+//   background-color: #612424;
+// }
+
+
+// Set top navbar background colour to white. 
+// .greedy-nav a { 
+//   color: #ffffff;
+// }
+
+// Background of masthead inner wrap 
+// .masthead__inner-wrap {
+//   background-color: #00ffff; 
+// } 
+
+
+// Hide side title
+// .greedy-nav .site-title { opacity: 1; }
+
+// .archive__item-title {
+//   position: relative;
+//   font-size: 50px;
+// } 
