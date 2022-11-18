@@ -1,10 +1,10 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Projects"
-    url: /projects/
-  - title: "Publications"
-    url: /publications/
+#   - title: "Posts"
+#     url: /posts/
+#   - title: "Projects"
+#     url: /projects/
+#   - title: "Publications"
+#     url: /publications/
   - title: "CV"
     url: /assets/Documents/Baduwal_Madan_Resume.pdf
   
