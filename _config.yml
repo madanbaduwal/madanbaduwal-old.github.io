@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Madan Baduwal
-email: madanbaduwal100@gmail.com
+title: Priyanka Paudel
+email: poudelnipriyanka@gmail.com
 description:  "Machine Learning Engineer|NLP|Perception(computer vision)|Motion and manipulation(robotics)|Social intelligence |General intelligence"
 url: "https://madanbaduwal.github.io/projects"
-twitter_username: MadanBaduwal1
-github_username: MadanBaduwal
-stackoverflow_username: madan-baduwal
-linkiden_username: MadanBaduwal
+# twitter_username: MadanBaduwal1
+github_username: priyanka36
+# stackoverflow_username: madan-baduwal
+linkiden_username: priyankapaudel
 minimal_mistakes_skin: "default"
 search: true
 
-twitter:
-  username: "MadanBaduwal1"
+# twitter:
+#   username: "MadanBaduwal1"
 
 # Build settings
 markdown: kramdown
@@ -71,28 +71,28 @@ plugins:
   - jekyll-redirect-from
 
 author:
-  name   : "Madan Baduwal"
+  name   : "Priyanka Paudel"
   avatar : "/images/my-image.png"
   bio    : "Machine Learning Engineer"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/MadanBaduwal"
-    - label: "Youtube"
-      icon: "fab fa-youtube"
-      url: "https://www.youtube.com/channel/UCnJhPtjZJHtSvYgviEBJImA"
+      url: "https://github.com/priyanka36"
+#     - label: "Youtube"
+#       icon: "fab fa-youtube"
+#       url: "https://www.youtube.com/channel/UCnJhPtjZJHtSvYgviEBJImA"
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
-      url: "https://www.linkedin.com/in/madan-baduwal-a688bb186/"
-    - label: "Google Scholar"
-      icon: "fa fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=mIEdm2IAAAAJ&hl=en"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/MadanBaduwal1"
-    - label: "ORCID"
-      icon: "fab fa-orcid"
-      url: "https://orcid.org/0000-0003-3389-1586"
+      url: "https://www.linkedin.com/in/priyanka-paudel-10361116b/"
+#     - label: "Google Scholar"
+#       icon: "fa fa-graduation-cap"
+#       url: "https://scholar.google.com/citations?user=mIEdm2IAAAAJ&hl=en"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/MadanBaduwal1"
+#     - label: "ORCID"
+#       icon: "fab fa-orcid"
+#       url: "https://orcid.org/0000-0003-3389-1586"
 
    
     # - label: "Subscribe"
@@ -105,14 +105,14 @@ author:
 #      icon: "fab fa-fw fa-globe"
 #      url: "/feed.xml"
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/MadanBaduwal1"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/MadanBaduwal"
+# footer:
+#   links:
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/MadanBaduwal1"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/MadanBaduwal"
 
 defaults:
   # _posts
@@ -150,12 +150,12 @@ tag_archive:
   type: liquid
   path: /tags/
 
-comments:
-  provider: "utterances"
-  utterances:
-    theme: "github-light" # "github-dark"
-    issue_term: "pathname"
-repository: "MadanBaduwal/MadanBaduwal.github.io"
+# comments:
+#   provider: "utterances"
+#   utterances:
+#     theme: "github-light" # "github-dark"
+#     issue_term: "pathname"
+# repository: "MadanBaduwal/MadanBaduwal.github.io"
 
 google-site-verification: "7PTmUxxTjmF3fgdhOmPbB5uNjkzCLD5vhItBRnJJSZY"  # get from google search console
 
@@ -163,10 +163,10 @@ social:
   type:  Person
   name:  Madan Baduwal
   links:
-    - "https://twitter.com/MadanBaduwal1"
-    - "https://github.com/MadanBaduwal"
-    - "https://www.linkedin.com/in/madan-baduwal-a688bb186/"
-    - "https://stackoverflow.com/users/13783264"
+#     - "https://twitter.com/MadanBaduwal1"
+    - "https://github.com/priyanka36"
+    - "https://www.linkedin.com/in/priyanka-paudel-10361116b/"
+#     - "https://stackoverflow.com/users/13783264"
 
 google:
   search_engine_id: f40dfec50840f5334
