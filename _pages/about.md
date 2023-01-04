@@ -10,8 +10,10 @@ redirect_from:
 ---
 ------------
 
-I am an upcomming Computer Science(M.S) Student at The University of South Dakota, I will continue my research under [Prof.Santosh KC](https://kc-santosh.org/) at the [2AI Lab](https://www.linkedin.com/company/kc-pami/), USD. 
+I am an upcomming Computer Science(M.S) Student at The University Of Texas Permian Basin.
 
+<!-- , I will continue my research under [Prof.Santosh KC](https://kc-santosh.org/) at the [2AI Lab](https://www.linkedin.com/company/kc-pami/), USD. 
+ -->
 My research interests lie in **Machine Learning** , **Computer Vision** , **Natural Language Processing** , **Embodied AI** , and **Cognitive Science**.In particular I am interested in reverse-engineering the human mind to build embodied machines that can see,listen,speak,learn,and interact with human-level cognition and social intelligence.You can learn more by visiting my [Github](https://github.com/MadanBaduwal),[Google Scholor](https://scholar.google.com/citations?user=mIEdm2IAAAAJ&hl=en), [Youtube](https://www.youtube.com/channel/UCnJhPtjZJHtSvYgviEBJImA), or checking out my [CV](https://madanbaduwal.github.io/assets/Documents/Baduwal_Madan_Resume.pdf).
 
 I earned a BE in Computer Engineering at Tribhuvan University , under the direction of [Sanjeev Prasad Panday](https://scholar.google.com/citations?user=oTWWLT8AAAAJ&hl=en).I am lucky to have opportunities to work with [Mahabir Pun](https://en.wikipedia.org/wiki/Mahabir_Pun) , [Rabin Dhakal](https://rabindhakal.com/). If you are interested in discussing research, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/madan-baduwal-a688bb186/), or [Twitter](https://twitter.com/MadanBaduwal1). You can also send me an email: ```madanbaduwal100@gmail.com```. 
