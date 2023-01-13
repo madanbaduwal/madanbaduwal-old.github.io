@@ -10,7 +10,7 @@ redirect_from:
 ---
 ------------
 
-I am first year Computer Science(M.S) Student at The University Of Texas Permian Basin(UTPB), conducting research under [Prof.Quan Yuan](https://www.utpb.edu/directory/faculty-staff/yuan_q)  in object recognition domain. 
+I am first year Computer Science(M.S) Student at The University Of Texas Permian Basin(UTPB), conducting research under [Prof.Quan Yuan](https://www.utpb.edu/directory/faculty-staff/yuan_q)  in machine learning paradigms for computer vision problems particularly in object detection,recognition, and segmentation. 
 
 <!-- , I will continue my research under [Prof.Santosh KC](https://kc-santosh.org/) at the [2AI Lab](https://www.linkedin.com/company/kc-pami/), USD. 
  -->
