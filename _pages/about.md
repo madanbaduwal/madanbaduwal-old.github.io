@@ -34,7 +34,7 @@ I earned a BE in Computer Engineering at Tribhuvan University , under the direct
 
 8/2022 Start Collecting [Computer VisionProblems and Datasets](https://madanbaduwal.github.io/computer-vision-problems-and-datasets)
 
-8/2022 Start Searching and Listing [Computer Vision Researchers](https://madanbaduwal.github.io/people-in-computer-vision/) 
+8/2022 Start Searching and Listing [Computer Vision Researchers](https://github.com/MadanBaduwal/usa-university-application-process/blob/main/cv-researchers.md) 
 
 
 
@@ -43,7 +43,7 @@ I earned a BE in Computer Engineering at Tribhuvan University , under the direct
 ------------
 * [Learning Resources](https://github.com/MadanBaduwal/learning)
 * [Computer VisionProblems and Datasets](https://madanbaduwal.github.io/computer-vision-problems-and-datasets)
-* [Computer Vision Researchers](https://madanbaduwal.github.io/people-in-computer-vision/) 
+* [Computer Vision Researchers](https://github.com/MadanBaduwal/usa-university-application-process/blob/main/cv-researchers.md) 
 
 
 # Publications
