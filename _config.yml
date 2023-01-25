@@ -76,7 +76,7 @@ author:
   bio    : "Machine Learning Engineer"
   links:
     - label: "Email"
-      icon: "fab fa-envelope"
+      icon: "fa-solid fa-envelope"
       url: "mailto:madanbaduwal100@gmail.com" 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
