@@ -78,6 +78,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MadanBaduwal"
+    - label: "Leetcode"
+      icon: "fab fa-leetcode"
     - label: "Youtube"
       icon: "fab fa-youtube"
       url: "https://www.youtube.com/channel/UCnJhPtjZJHtSvYgviEBJImA"
