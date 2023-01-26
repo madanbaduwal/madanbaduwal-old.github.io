@@ -16,7 +16,7 @@
 title: Madan Baduwal
 email: madanbaduwal100@gmail.com
 description:  "Machine Learning Engineer|NLP|Perception(computer vision)|Motion and manipulation(robotics)|Social intelligence |General intelligence"
-url: "https://madanbaduwal.github.io/projects"
+url: "https://madanbaduwal.github.io"
 twitter_username: MadanBaduwal1
 github_username: MadanBaduwal
 stackoverflow_username: madan-baduwal
@@ -74,10 +74,9 @@ author:
   name   : "Madan Baduwal"
   avatar : "/images/my-image.png"
   bio    : "Machine Learning Engineer"
+  email  : "madanbaduwal100@gmail.com"
+  location  : "Odessa, Texas"
   links:
-    - label: "Email"
-      icon: "fa-solid fa-envelope"
-      url: "mailto:madanbaduwal100@gmail.com" 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MadanBaduwal"
