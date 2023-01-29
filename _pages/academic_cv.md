@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /cv/
+permalink: /academic_cv/
 author_profile: true
 redirect_from:
   - /assets/Documents/Baduwal_Madan_Resume_Academic.pdf
