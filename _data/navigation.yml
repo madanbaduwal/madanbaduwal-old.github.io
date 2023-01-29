@@ -5,8 +5,10 @@ main:
     url: /projects/
   - title: "Publications"
     url: /publications/
-  - title: "CV"
-    url: /assets/Documents/Baduwal_Madan_Resume.pdf
+  - title: "Academic_CV"
+    url: /assets/Documents/Baduwal_Madan_Resume_Academic.pdf
+  - title: "Industry_CV"
+    url: /assets/Documents/Baduwal_Madan_Resume_Industry.pdf
   
 
 # Create link
