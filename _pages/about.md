@@ -21,8 +21,9 @@ I earned a BE in Computer Engineering at Tribhuvan University , under the direct
 
 # Roles
 ------------
-
-* Sr.Machine Learning & Computer Vision Engineer,BP Eye Foundation(Ongoing)
+* University Of Texas Permian Basin, Graduate Student Assistant Editor(Mar 2023 – Ongoing)
+* Machine Learning Engioneer,Matrice.ai (Nov 2022 – Feb 2023)
+* Sr.Machine Learning & Computer Vision Engineer,BP Eye Foundation(May 2022 – Nov 2022)
 * Machine Learning Engineer , Fusemachines (Feb 2020 – Feb 2022)
 * Computer Vision Engineer(R and D),National Innovation Center  (Jan 2021 – Dec 2021)
 * Software Engineer, Omnibluetech(INT)(Aug 2019 — Feb 2020)
