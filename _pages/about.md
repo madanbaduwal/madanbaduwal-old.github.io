@@ -10,8 +10,7 @@ redirect_from:
 ---
 ------------
 
-I am first year Computer Science(M.S) Student at The University Of Texas Permian Basin(UTPB), conducting research under [Prof.Quan Yuan](https://www.utpb.edu/directory/faculty-staff/yuan_q)  in machine learning paradigms for computer vision problems particularly in object detection,recognition, and segmentation. 
-
+I am a first year Computer Science(M.S) Student at The University Of Texas Permian Basin(UTPB), conducting research under [Prof.Quan Yuan](https://www.utpb.edu/directory/faculty-staff/yuan_q)  in machine learning paradigms for phishing detection , particularly in transformer-based architectures.
 <!-- , I will continue my research under [Prof.Santosh KC](https://kc-santosh.org/) at the [2AI Lab](https://www.linkedin.com/company/kc-pami/), USD. 
  -->
 My research interests lie in **Machine Learning** , **Computer Vision** , **Natural Language Processing** , **Embodied AI** , and **Cognitive Science**.In particular I am interested in reverse-engineering the human mind to build embodied machines that can see,listen,speak,learn,and interact with human-level cognition and social intelligence.You can learn more by visiting my [Github](https://github.com/MadanBaduwal),[Google Scholor](https://scholar.google.com/citations?user=mIEdm2IAAAAJ&hl=en), [Youtube](https://www.youtube.com/channel/UCnJhPtjZJHtSvYgviEBJImA), or checking out my [Resume](https://madanbaduwal.github.io/assets/Documents/Baduwal_Madan_Resume_Industry.pdf).
