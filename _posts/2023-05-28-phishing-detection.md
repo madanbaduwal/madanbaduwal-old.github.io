@@ -1,3 +1,22 @@
+---
+published: true
+title: Phishing Detection
+layout: single
+date: 2023-05-10T00:00-00:00
+last_modified_at: 2023--05-10T00:00:00-00:00
+author_profile: true
+read_time: true
+permalink : /phishing-detection/
+categories: [Projects]
+excerpt : Phishing Detection using deep learning
+header :
+    og_image : "https://raw.githubusercontent.com/madanbaduwal/phishing-detection-transformer/main/docs/gif.gif"
+    teaser: "https://raw.githubusercontent.com/madanbaduwal/phishing-detection-transformer/main/docs/gif.gif"
+comments : true
+sidebar:
+    nav: sidebar-sample
+---
+
 Phishing attacks continue to be a major security threat
 for individuals and organizations alike. It causes billions
 of dollars in losses annually. Machine learning(ML) has
