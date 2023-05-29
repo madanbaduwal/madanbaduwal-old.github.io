@@ -30,7 +30,7 @@ serve as a useful resource for researchers and practitioners
 working in this field.
 
 
-<iframe width="700" height="500" src="https://raw.githubusercontent.com/madanbaduwal/phishing-detection-transformer/main/docs/gif.gif" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="500" src="https://youtu.be/_Tv3nT6WqzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
