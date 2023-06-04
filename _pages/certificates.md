@@ -7,7 +7,7 @@ author_profile: true
 
 |S.No.|Name of Course/Conference|Offered by|Estimated period|Date of Completion|Certificate|
 |---|---|---|---|---|---|
-|1|Fusemachines Artificial Intelligence Scholarship Program|[Fusemachines](https://fusemachines.com/)|6 months|Nov 2018 - May 2019|
+|1|[Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)|[Coursera](https://www.coursera.org/)|4 weeks|J an 14, 2020|[View Certificate](https://www.coursera.org/account/accomplishments/certificate/CW3FA627EM2S)|
 |2|AWS Innovate Online Conference - AI/ML Edition : Certificate of Attendance|[AWS](https://aws.amazon.com/)|5 hours|Feb 19, 2020|[View Certificate](https://drive.google.com/open?id=1tIMKDhCth63rFkicrPAUu0vQA3Zudx4C)|
 |3|[Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)|[Khan Academy](https://www.khanacademy.org/)|20 hrs|Feb 24, 2020|
 |4|[Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)|[Khan Academy](https://www.khanacademy.org/)|20 hrs|Feb 27, 2020|
