@@ -9,6 +9,8 @@ main:
     url: /assets/Documents/Baduwal_Madan_Resume_Academic.pdf
   - title: "Industry CV"
     url: /assets/Documents/Baduwal_Madan_Resume_Industry.pdf
+  - title: "Certificates"
+    url: /certificates/
   
 
 # Create link
