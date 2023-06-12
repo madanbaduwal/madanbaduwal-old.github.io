@@ -33,15 +33,10 @@ I earned a BE in Computer Engineering at Tribhuvan University , under the direct
 ------------
 
 * 3/10/2023 Started working as a Student Assistant Editor at UTPB
-
 * 3/15/2023 Started working as a Orientation Leader at UTPB
-
 * 1/11/2023 Started Masters of Science in Computer Science at University of Texas Permian Basin
-
 * 8/2022 Started Collecting [Computer VisionProblems and Datasets](https://madanbaduwal.github.io/computer-vision-problems-and-datasets)
-
 * 8/2022 Started Searching and Listing [USA university application process](https://github.com/madanbaduwal/usa-university-application-process) 
-
 * 08/17/2022 Started [Life Long Learning](https://github.com/MadanBaduwal/learning)
 
 
