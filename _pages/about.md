@@ -31,20 +31,26 @@ I earned a BE in Computer Engineering at Tribhuvan University , under the direct
 
 # News
 ------------
-08/17/2022 Start [Life Long Learning](https://github.com/MadanBaduwal/learning)
 
-8/2022 Start Collecting [Computer VisionProblems and Datasets](https://madanbaduwal.github.io/computer-vision-problems-and-datasets)
+* 3/10/2023 Started working as a Student Assistant Editor at UTPB
 
-8/2022 Start Searching and Listing [Computer Vision Researchers](https://github.com/MadanBaduwal/usa-university-application-process/blob/main/cv-researchers.md) 
+* 3/15/2023 Started working as a Orientation Leader at UTPB
 
+* 1/11/2023 Started Masters of Science in Computer Science at University of Texas Permian Basin
+
+* 8/2022 Started Collecting [Computer VisionProblems and Datasets](https://madanbaduwal.github.io/computer-vision-problems-and-datasets)
+
+* 8/2022 Started Searching and Listing [USA university application process](https://github.com/madanbaduwal/usa-university-application-process) 
+
+* 08/17/2022 Started [Life Long Learning](https://github.com/MadanBaduwal/learning)
 
 
 
 # Community Services
 ------------
-* [Learning Resources](https://github.com/MadanBaduwal/learning)
 * [Computer VisionProblems and Datasets](https://madanbaduwal.github.io/computer-vision-problems-and-datasets)
-* [Computer Vision Researchers](https://github.com/MadanBaduwal/usa-university-application-process/blob/main/cv-researchers.md) 
+* [USA university application process](https://github.com/madanbaduwal/usa-university-application-process) 
+* [Life Long Learning](https://github.com/MadanBaduwal/learning)
 
 
 # Publications
