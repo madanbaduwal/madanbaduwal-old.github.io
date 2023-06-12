@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /industry_cv/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /assets/Documents/Baduwal_Madan_Resume_Industry.pdf
