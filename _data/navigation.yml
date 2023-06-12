@@ -5,10 +5,8 @@ main:
     url: /projects/
   - title: "Publications"
     url: /publications/
-  - title: "Academic CV"
-    url: /assets/Documents/Baduwal_Madan_Resume_Academic.pdf
-  - title: "Industry CV"
-    url: /assets/Documents/Baduwal_Madan_Resume_Industry.pdf
+  - title: "CV"
+    url: /assets/Documents/Baduwal_Madan_Resume.pdf
   - title: "Certificates"
     url: /certificates/
   
