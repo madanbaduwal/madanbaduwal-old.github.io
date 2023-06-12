@@ -33,29 +33,20 @@ I earned a BE in Computer Engineering at Tribhuvan University , under the direct
 
 ## Computer Science(M.S)
 
-Jan. 2023-Ongoing
-
-University Of Texas Permian Basin
-
-GPA: 4/4
-
-Area of focus: Phishing Detection Using Transformer
-
-Relevant Courses: Data Structure and Algorithm
+  * Jan. 2023-Ongoing
+  * University Of Texas Permian Basin
+  * GPA: 4/4
+  * Area of focus: Phishing Detection Using Transformer
+  * Relevant Courses: Data Structure and Algorithm
 
 ## Bachelors in Computer Engineering
 
-2015 -- 2019
-
-Tribhuvan University, Institute of Engineering
-Kathmandu, Nepal
-
-Percentage: 72.38\%
-
-Rank : 2/43
-
-Relevant Courses: Artificial Intelligence, Data Structures and Algorithms, Image Processing \& Pattern Recognition, Multimedia System, Big Data Technologies, Software
-Engineering, Probability and Statistics, Linear Algebra, Computer Organization \& Architecture, Microprocessor, Computer Network, Operating System, C, C++
+  * 2015 -- 2019
+  * Tribhuvan University, Institute of Engineering, Kathmandu, Nepal
+  * Percentage: 72.38\%
+  * Rank : 2/43
+  * Relevant Courses: Artificial Intelligence, Data Structures and Algorithms, Image Processing \& Pattern Recognition, Multimedia System, Big Data Technologies, Software
+  Engineering, Probability and Statistics, Linear Algebra, Computer Organization \& Architecture, Microprocessor, Computer Network, Operating System, C, C++
 
 
 
