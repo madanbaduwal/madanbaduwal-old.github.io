@@ -16,3 +16,9 @@ author_profile: true
 
 
 
+
+# EXTRA ACTIVITIES
+* Lite Exhibition Participant, Kantipur Engineering College, 2015,2016,2017,2018
+* Himalayan Exhibition (HEx) Participant, Himalayan College of Engineering, 2017
+* AI Workshop Participant , MPercept Technology Pvt , 2019
+* Data Science Workshop Participant, F1Soft International Pvt. Ltd., 2019
