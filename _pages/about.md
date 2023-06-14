@@ -45,8 +45,8 @@ I earned a BE in Computer Engineering at Tribhuvan University , under the direct
   * Tribhuvan University, Institute of Engineering, Kathmandu, Nepal
   * Percentage: 72.38%
   * Rank : 2/43
-  * Relevant Courses: Artificial Intelligence, Data Structures and Algorithms, Image Processing \& Pattern Recognition, Multimedia System, Big Data Technologies, Software
-  Engineering, Probability and Statistics, Linear Algebra, Computer Organization \& Architecture, Microprocessor, Computer Network, Operating System, C, C++
+  * Relevant Courses: Artificial Intelligence, Data Structures and Algorithms, Image Processing & Pattern Recognition, Multimedia System, Big Data Technologies, Software
+  Engineering, Probability and Statistics, Linear Algebra, Computer Organization & Architecture, Microprocessor, Computer Network, Operating System, C, C++
 
 
 
