@@ -76,7 +76,7 @@ author:
   bio    : "Machine Learning Engineer"
   email  : "madanbaduwal100@gmail.com"
   location  : "Odessa, Texas"
-  leetcode : "madanbaduwal100/"
+  leetcode : "MadanBaduwal"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -86,7 +86,7 @@ author:
       url: "https://www.youtube.com/channel/UCnJhPtjZJHtSvYgviEBJImA"
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
-      url: "https://www.linkedin.com/in/madan-baduwal-a688bb186/"
+      url: "https://www.linkedin.com/in/MadanBaduwal"
     - label: "Google Scholar"
       icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=mIEdm2IAAAAJ&hl=en"
@@ -166,7 +166,7 @@ social:
   links:
     - "https://twitter.com/MadanBaduwal1"
     - "https://github.com/MadanBaduwal"
-    - "https://www.linkedin.com/in/madan-baduwal-a688bb186/"
+    - "https://www.linkedin.com/in/MadanBaduwal/"
     - "https://stackoverflow.com/users/13783264"
 
 google:
