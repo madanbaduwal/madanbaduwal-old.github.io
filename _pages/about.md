@@ -22,8 +22,9 @@ I earned a BE in Computer Engineering at Tribhuvan University , under the direct
 
 # Roles
 ------------
-* University Of Texas Permian Basin, Graduate Student Assistant Editor(Mar 2023 – Ongoing)
-* University Of Texas Permian Basin, Orientation Team Leader(Mar 2023 – Ongoing)
+* University Of Texas Permian Basin, Graduate Assistant(Jan 2024 – Ongoing)
+* University Of Texas Permian Basin, Undergraduate Student Assistant Editor(Mar 2023 – Ongoing)
+* University Of Texas Permian Basin, Orientation Team Leader(Mar 2023 – Sep 2023)
 * Machine Learning Engioneer,Matrice.ai (Nov 2022 – Feb 2023)
 * Sr.Machine Learning & Computer Vision Engineer,BP Eye Foundation(May 2022 – Nov 2022)
 * Machine Learning Engineer , Fusemachines (Feb 2020 – Feb 2022)
@@ -55,7 +56,7 @@ I earned a BE in Computer Engineering at Tribhuvan University , under the direct
 
 # News
 ------------
-
+* 01/16/2023 Started working as Graduate Assistant
 * 3/10/2023 Started working as a Student Assistant Editor at UTPB
 * 3/15/2023 Started working as a Orientation Leader at UTPB
 * 1/11/2023 Started Masters of Science in Computer Science at University of Texas Permian Basin
