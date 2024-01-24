@@ -40,7 +40,8 @@ I earned a BE in Computer Engineering at Tribhuvan University , under the direct
   * University Of Texas Permian Basin
   * GPA: 4/4
   * Area of focus: Phishing Detection Using Transformer
-  * Relevant Courses: Data Structure and Algorithm
+  * Relevant Courses: Data Structure and Algorithm, Distributed System, Distributed Database Systems, Computer
+Network and Security, Advanced Web Development,Computer Forensics, Contract Study(Brain Tumor Detection)
 
 ## Bachelors in Computer Engineering
 
