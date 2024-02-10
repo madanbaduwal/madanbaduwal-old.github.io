@@ -10,10 +10,7 @@ redirect_from:
 ---
 ------------
 
-<!-- I am a first-year Computer Science(M.S) Student at The University Of Texas Permian Basin(UTPB), conducting research under [Prof. Quan Yuan](https://www.utpb.edu/directory/faculty-staff/yuan_q)  in machine learning and deep learning, particularly in transformer-based architectures and diffusion models. My research interests lie in **Cognitive Science**, **Neuroscience**, **Machine Learning**, **Computer Vision** , **Natural Language Processing** ,**Software Engineering**, and **Robotics** . -->
-
-
-I am a final-year Computer Science(M.S) Student at The University Of Texas Permian Basin(UTPB), conducting research under [Prof. Quan Yuan](https://www.utpb.edu/directory/faculty-staff/yuan_q) in machine learning and deep learning, particularly in transformer-based architectures and diffusion models. My research interests lie in **Cognitive neuroscience**, **Deep Learning(Multimodal Learning, Generative AI, LLM)**, **Computer Vision**, **Natural Language Processing**,**Software Engineering**, and **Robotics** .
+I am a final-year Computer Science(M.S) Student at The University Of Texas Permian Basin(UTPB), conducting research under [Prof. Quan Yuan](https://www.utpb.edu/directory/faculty-staff/yuan_q) in machine learning and deep learning, particularly in transformer-based architectures and diffusion models. My research interests lie in **Cognitive neuroscience**, **Deep Learning(Multimodal Learning, Generative AI, LLM)**, **Computer Vision**, **Natural Language Processing**,**Software Engineering**, and **Robotics**.
 
 In particular I am interested in reverse-engineering the human mind to build embodied machines that can see, listen, speak, learn, and interact with human-level cognition and social intelligence.You can learn more by visiting my [Github](https://github.com/MadanBaduwal),[Google Scholor](https://scholar.google.com/citations?user=mIEdm2IAAAAJ&hl=en), [Youtube](https://www.youtube.com/channel/UCnJhPtjZJHtSvYgviEBJImA), or checking out my [Resume](https://madanbaduwal.github.io/assets/Documents/Baduwal_Madan_Resume.pdf).
 
